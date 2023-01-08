@@ -1,0 +1,173 @@
+library(tidyverse)
+library(plyr)
+library(scales)
+
+
+rm(list=ls())
+
+haplo_noNX_full <- read.table("microhaplotype_readcount_CA_noNX.txt", header=TRUE)
+unique(haplo_noNX_full$group)
+
+###########
+###input###
+###########
+
+mock <- haplo_noNX_full %>% 
+  filter(group=="mock")
+
+stool <- haplo_noNX_full %>% 
+  filter(group=="stool")
+
+ntc <- haplo_noNX_full %>% 
+  filter(group=="ntc")
+
+
+#######################################
+###filter based on haplotype catelog###
+#######################################
+
+chnk.hap <- read.table("chinook.haplot.pF.20.0.2.txt", header=TRUE)
+loci.whitelist <- unique(chnk.hap$locus)
+haplo_key <- read.table("chinook_haplot_key.txt", header=TRUE)
+
+
+#ntc
+ntc.filter <- ntc %>% 
+  mutate(locus_haplo=paste0(locus, "_", haplo)) %>% 
+  filter(locus %in% loci.whitelist) %>% 
+  filter(locus_haplo %in% haplo_key$haplo_info)
+
+table(ntc.filter$locus_haplo %in% haplo_key$haplo_info)
+table(ntc.filter$locus %in% chnk.hap$locus)
+
+ntc.filter <- ntc.filter %>% 
+  group_by(locus,id) %>% 
+  dplyr::mutate(n.hap.perLocInd=n_distinct(haplo),
+         read.ratio=depth/depth[1],
+         rank=row_number(),
+         coverage_perLocInd=sum(depth)) %>% 
+  ungroup() %>% 
+  select(group, id, locus, haplo, locus_haplo, depth, coverage_perLocInd, n.hap.perLocInd, read.ratio, rank)
+
+length(unique(ntc$id))
+length(unique(ntc$locus))
+length(unique(ntc.filter$id))
+length(unique(ntc.filter$locus))
+length(unique(ntc.filter$locus_haplo))
+
+#mock
+length(unique(mock$id))
+length(unique(mock$locus))
+
+
+mock.filter <- mock %>% 
+  mutate(locus_haplo=paste0(locus, "_", haplo)) %>% 
+  filter(locus %in% loci.whitelist) %>% 
+  filter(locus_haplo %in% haplo_key$haplo_info)
+
+table(mock.filter$locus_haplo %in% haplo_key$haplo_info)
+table(mock.filter$locus %in% chnk.hap$locus)
+
+
+mock.filter <- mock.filter %>% 
+  group_by(locus,id) %>% 
+  mutate(n.hap.perLocInd=n_distinct(haplo),
+         read.ratio=depth/depth[1],
+         rank=row_number(),
+         coverage_perLocInd=sum(depth)) %>% 
+  ungroup() %>% 
+  select(group, id, locus, haplo, locus_haplo, depth, coverage_perLocInd, n.hap.perLocInd, read.ratio, rank)
+
+length(unique(mock.filter$id))
+length(unique(mock.filter$locus))
+length(unique(mock.filter$locus_haplo))
+
+#stool
+length(unique(stool$id))
+length(unique(stool$locus))
+
+stool.filter <- stool %>% 
+  mutate(locus_haplo=paste0(locus, "_", haplo)) %>% 
+  filter(locus %in% loci.whitelist) %>% 
+  filter(locus_haplo %in% haplo_key$haplo_info)
+
+table(stool.filter$locus_haplo %in% haplo_key$haplo_info)
+table(stool.filter$locus %in% chnk.hap$locus)
+
+
+stool.filter <- stool.filter %>% 
+  group_by(locus,id) %>% 
+  mutate(n.hap.perLocInd=n_distinct(haplo),
+         read.ratio=depth/depth[1],
+         rank=row_number(),
+         coverage_perLocInd=sum(depth)) %>% 
+  ungroup() %>% 
+  select(group, id, locus, haplo, locus_haplo, depth, coverage_perLocInd, n.hap.perLocInd, read.ratio, rank)
+
+length(unique(stool.filter$id))
+length(unique(stool.filter$locus))
+length(unique(stool.filter$locus_haplo))
+
+
+#compare # reads per locus per ind
+summary(ntc.filter)
+summary(mock.filter)
+summary(stool.filter)
+
+both <- rbind(mock.filter, stool.filter)
+
+both <- both %>% 
+  mutate(group2=case_when(
+    grepl("MockMixture", id) ~ "mock",
+    grepl("CCF-Stool", id) ~ "CCF",
+    grepl("LMB-Stool", id) ~ "LMB"
+  ))
+
+
+both$group2 <- as.factor(both$group2)
+levels(both$group2)
+both$group2 <- factor(both$group2, levels=c("mock", "CCF", "LMB"))
+
+mu <- ddply(both, "group2", summarise, grp.median=median(coverage_perLocInd))
+mu$x <- mu$grp.median+20
+mu$y <- c(0.05, 0.04, 0.03)
+mu
+
+
+labs <- c("mock mixture", "CCF GI track", "LMB GI track")
+names(labs) <- c("mock", "CCF", "LMB")
+
+pdf("mock_VS_stool_converagePerLocInd.pdf", width = 12, height = 9)
+both %>% 
+  ggplot(aes(x=coverage_perLocInd, fill=group2, color=group2))+
+  geom_histogram(aes(y=..density..), binwidth = 5, position="identity", alpha=0.6)+
+  geom_vline(data=mu, aes(xintercept=grp.median, color=group2),
+             linetype="dashed")+
+  geom_text(data=mu, aes(label=grp.median, x=x, y=y), size=8, fontface="bold")+
+  scale_fill_manual(values=c("#999999", "#E69F00", "#56B4E9"), labels=c("mock mixture", "CCF GI track", "LMB GI track"))+
+  scale_color_manual(values=c("#999999", "#E69F00", "#56B4E9"), labels=c("mock mixture", "CCF GI track", "LMB GI track"))+
+    labs(x="Coverage per locus per sample", y = "Density", color="", fill="")+
+  theme_bw(base_size = 25)+
+  theme(legend.position = c(0.85, 0.85),
+        legend.background = element_blank())
+
+both %>% 
+  ggplot(aes(x=coverage_perLocInd, fill=group2, color=group2))+
+  geom_histogram(aes(y=..density..), binwidth = 5, position="identity", alpha=0.6)+
+  geom_vline(data=mu, aes(xintercept=grp.median, color=group2),
+             linetype="dashed")+
+  geom_text(data=mu, aes(label=grp.median, x=x, y=y), size=8, fontface="bold")+
+  scale_fill_manual(values=c("#999999", "#E69F00", "#56B4E9"), labels=c("mock mixture", "CCF GI track", "LMB GI track"))+
+  scale_color_manual(values=c("#999999", "#E69F00", "#56B4E9"), labels=c("mock mixture", "CCF GI track", "LMB GI track"))+
+  labs(x="Coverage per locus per sample", y = "Density", color="", fill="")+
+  theme_bw(base_size = 25)+
+  theme(legend.position = "none")+
+  facet_grid(rows=vars(group2), labeller=labeller(group2=labs), scales = "free_x")
+
+dev.off()
+
+
+  
+
+
+

@@ -1,0 +1,50 @@
+library(tidyverse)
+
+rm(list=ls())
+
+
+mle.full <- read.table("./stool_NOCestimate_0_0.02.txt", header=T)
+
+
+
+#plot it
+
+mle.full2 <- mle.full
+mle.full2$hour <- as.factor(mle.full2$hour)
+mle.full2$hour <- factor(mle.full2$hour, levels = c("6","12","24","36","48", "60", "72","84","96","120"))
+
+pdf(paste0("stool_NOCestimate_", d, "_", r, ".pdf"), width = 12, height = 9)
+
+mle.full2 %>% 
+  na.omit() %>% 
+  filter(species=="CCF") %>% 
+  ggplot(aes(x=hour,y=mle))+
+  geom_jitter(color="darkgray", width = 0.2, alpha=0.5, size=4)+
+  stat_summary(fun.data = mean_sdl, fun.args = list(mult=1), geom="pointrange", color="red", alpha=0.8, size=1)+
+  theme_bw(base_size = 20)+
+  theme(panel.grid.minor.x = element_blank())+
+  facet_grid(n_ind~temp)+
+  xlab("Hour")+
+  ylab("Estimate NOC")+ 
+  ggtitle("Channel catfish")
+
+mle.full2 %>% 
+  na.omit() %>% 
+  filter(species=="LMB") %>% 
+  ggplot(aes(x=hour,y=mle))+
+  geom_jitter(color="darkgray", width = 0.2, alpha=0.5, size=4)+
+  stat_summary(fun.data = mean_sdl, fun.args = list(mult=1), geom="pointrange", color="red", alpha=0.8, size=1)+
+  theme_bw(base_size = 20)+
+  theme(panel.grid.minor.x = element_blank())+
+  facet_grid(n_ind~temp)+
+  xlab("Hour")+
+  ylab("Estimate NOC")+ 
+  ggtitle("Channel catfish")
+
+dev.off()
+
+
+summary(mle.full)
+
+length(unique(stool.filter.af$haplo_id))
+

@@ -1,0 +1,64 @@
+###script was adapted from https://github.com/karaandres/eDNA_goby_mesocosms/blob/master/mesocosm_analysis.R
+
+library(tidyverse)
+rm(list=ls())
+
+
+# Read frequencies per mesocosm, theshold 0.001-0.1 and by per-locus allelic richness 
+mesocosm_tissue_allele_freqs <- read.csv("./kara/mesocosm_tissue_allele_freqs.csv", header=T)
+total_tissue_allele_freqs <- read.csv("./kara/total_tissue_allele_freqs.csv", header=T)
+allelic_richness <- data.frame(table(total_tissue_allele_freqs$locus))
+bins <- seq(from=0.005,to=0.05,length.out=20)
+
+    NumAl <- nrow(total_tissue_allele_freqs[total_tissue_allele_freqs$locus=="Nmel1103",])
+    
+    bins[NumAl]
+    
+    
+    #if (threshold=="variable_threshold"){
+    #  file_mat_norm[file_mat_norm<bins[NumAl]] <- 0
+    #} else file_mat_norm[file_mat_norm<threshold] <- 0
+    #file_mat_norm[file_mat_norm<0.01] <- 0 # remove alleles below threshold of 0.01 per sample
+    file_mat_norm <- as.data.frame(apply(file_mat_norm, 2, function(x) x/sum(x, na.rm = TRUE)*100)) 
+    #file_mat <- apply(file_mat, 2, function(x) x/sum(x, na.rm = TRUE)*100) # read count normalized per sample to 100 counts
+    edna_allele_freqs_temp <- data.frame(locus_allele = NA) # empty dataframe
+    k=1 # number (label) for each mesocosm
+    for (i in seq(1,24,2)){ # for each mesocosm
+      mesocosm <- data.frame(haplotypes=as.factor(file$Haplotype),
+                             edna_sums=rowSums(file_mat[,c(i, i+1)], na.rm = T)) # combine read counts for 2 eDNA samples
+      mesocosm$edna_freq <- mesocosm$edna_sums/sum(mesocosm$edna_sums, na.rm = TRUE) # calculate read frequency for each allele in combined eDNA samples 
+      #file_mat_norm <- as.data.frame(apply(file_mat, 2, function(x) x/sum(x, na.rm = TRUE))) # read count normalized per sample
+      #NumAl <- nrow(total_tissue_allele_freqs[total_tissue_allele_freqs$locus==paste(filenames[[j]]),])
+      if (threshold=="variable_threshold"){
+        mesocosm$edna_freq[mesocosm$edna_freq<bins[NumAl]] <- 0
+      } else mesocosm$edna_freq[mesocosm$edna_freq<threshold] <- 0 # remove alleles below threshold
+      # file_mat_norm <- as.data.frame(apply(file_mat_norm, 2, function(x) x/sum(x, na.rm = TRUE))) # read count normalized per sample
+      mesocosm$edna_freq <- mesocosm$edna_freq/sum(mesocosm$edna_freq, na.rm = TRUE) # re-calculate read frequency
+      mesocosm <- merge(mesocosm, mesocosm_tissue_allele_freqs[mesocosm_tissue_allele_freqs$locus==paste(filenames[[j]]) & 
+                                                                 mesocosm_tissue_allele_freqs$mesocosm==k,], by = "haplotypes", all = TRUE)
+      mesocosm$tissue_freq[is.na(mesocosm$tissue_freq)] <- 0
+      mesocosm$edna_freq[is.na(mesocosm$edna_freq)] <- 0
+      mesocosm <-  mesocosm[mesocosm$edna_freq!=0 | mesocosm$tissue_freq!=0,]
+      if (nrow(mesocosm) > 0){
+        mesocosm <- data.frame(locus_allele = paste(filenames[[j]],"_", mesocosm$haplotypes,sep = ""), mesocosm$tissue_freq, mesocosm$edna_freq) # combine locus/allele names, eDNA read frequencies
+      } else {mesocosm <- data.frame(locus_allele = NA, 0,0)}
+      colnames(mesocosm) <- c("locus_allele", paste("tissue_",k,sep=""), paste("edna_",k,sep=""))
+      edna_allele_freqs_temp <- merge(edna_allele_freqs_temp, mesocosm, by = "locus_allele", all = TRUE)
+      k=k+1
+    }
+    edna_allele_freqs <-  rbind(edna_allele_freqs, edna_allele_freqs_temp)
+    j=j+1
+  }
+  edna_allele_freqs[is.na(edna_allele_freqs)] <- 0 # replace NAs with 0
+  edna_allele_freqs <- edna_allele_freqs[which(rowSums(edna_allele_freqs[,2:25]) > 0),] # remove any rows where all frequencies == 0
+  return(edna_allele_freqs)
+}
+
+mesocosm_edna_allele_freqs_0.1 <- calculate_allele_freqs(0.1)
+# write.csv(mesocosm_edna_allele_freqs_0.1, "/Users/kbja10/Documents/Cornell/Research/Round goby/Populations genetics: eDNA/Mesocosm_experiment_2018/mesocosm_analysis/mesocosm_edna_allele_freqs_0.1.csv")
+mesocosm_edna_allele_freqs_0.01 <- calculate_allele_freqs(0.01)
+# write.csv(mesocosm_edna_allele_freqs_0.01, "/Users/kbja10/Documents/Cornell/Research/Round goby/Populations genetics: eDNA/Mesocosm_experiment_2018/mesocosm_analysis/mesocosm_edna_allele_freqs_0.01.csv")
+mesocosm_edna_allele_freqs_0.001 <- calculate_allele_freqs(0.001)
+# write.csv(mesocosm_edna_allele_freqs_0.001, "/Users/kbja10/Documents/Cornell/Research/Round goby/Populations genetics: eDNA/Mesocosm_experiment_2018/mesocosm_analysis/mesocosm_edna_allele_freqs_0.001.csv")
+mesocosm_edna_allele_freqs_NumAl <- calculate_allele_freqs("variable_threshold")
+# write.csv(mesocosm_edna_allele_freqs_NumAl, "/Users/kbja10/Documents/Cornell/Research/Round goby/Populations genetics: eDNA/Mesocosm_experiment_2018/mesocosm_analysis/mesocosm_edna_allele_freqs_NumAl.csv")

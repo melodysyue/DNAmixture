@@ -1,0 +1,2024 @@
+Sample,total_passed,total_ontarget,group
+CCF_FinClp_1001_33_11,788,40,CCF
+CCF_FinClp_1002_33_13,1108,345,CCF
+CCF_FinClp_1003_33_15,7097,4882,CCF
+CCF_FinClp_1004_33_17,722,44,CCF
+CCF_FinClp_1005_33_19,1012,64,CCF
+CCF_FinClp_1006_33_21,357,31,CCF
+CCF_FinClp_1007_33_23,671,25,CCF
+CCF_FinClp_1008_33_25,592,105,CCF
+CCF_FinClp_1009_33_27,779,243,CCF
+CCF_FinClp_1010_33_29,1178,43,CCF
+CCF_FinClp_1011_33_31,1946,565,CCF
+CCF_FinClp_1012_33_33,1006,67,CCF
+CCF_FinClp_1013_33_35,391,53,CCF
+CCF_FinClp_1014_33_37,490,40,CCF
+CCF_FinClp_1015_33_39,651,43,CCF
+CCF_FinClp_1016_34_1,1130,507,CCF
+CCF_FinClp_1017_34_3,575,79,CCF
+CCF_FinClp_1018_34_5,2733,1232,CCF
+CCF_FinClp_1019_34_7,2104,480,CCF
+CCF_FinClp_1020_34_9,1106,25,CCF
+CCF_FinClp_1021_34_11,1852,748,CCF
+CCF_FinClp_1022_34_13,582,159,CCF
+CCF_FinClp_1023_34_15,332,53,CCF
+CCF_FinClp_1024_34_17,776,220,CCF
+CCF_FinClp_1025_34_19,551,23,CCF
+CCF_FinClp_1026_34_21,1254,75,CCF
+CCF_FinClp_1027_34_23,2086,567,CCF
+CCF_FinClp_1028_34_25,890,53,CCF
+CCF_FinClp_1029_34_27,480,28,CCF
+CCF_FinClp_1030_34_29,720,112,CCF
+CCF_FinClp_1031_34_31,1134,509,CCF
+CCF_FinClp_1032_34_33,93,20,CCF
+CCF_FinClp_1033_34_35,608,20,CCF
+CCF_FinClp_1034_34_37,894,44,CCF
+CCF_FinClp_1035_34_39,374,14,CCF
+CCF_FinClp_1036_35_1,938,66,CCF
+CCF_FinClp_1037_35_3,476,13,CCF
+CCF_FinClp_1038_35_5,780,24,CCF
+CCF_FinClp_1039_35_7,987,84,CCF
+CCF_FinClp_1040_35_9,786,176,CCF
+CCF_FinClp_1041_35_11,665,64,CCF
+CCF_FinClp_1042_35_13,1204,185,CCF
+CCF_FinClp_1043_35_15,1793,81,CCF
+CCF_FinClp_1044_35_17,810,59,CCF
+CCF_FinClp_1045_35_19,1034,14,CCF
+CCF_FinClp_1046_35_21,1338,131,CCF
+CCF_FinClp_1047_35_23,1584,133,CCF
+CCF_FinClp_1048_35_25,593,35,CCF
+CCF_FinClp_1049_35_27,729,9,CCF
+CCF_FinClp_1050_35_29,705,63,CCF
+CCF_FinClp_951_31_1,1222,196,CCF
+CCF_FinClp_952_31_3,1348,169,CCF
+CCF_FinClp_953_31_5,1653,375,CCF
+CCF_FinClp_954_31_7,1982,412,CCF
+CCF_FinClp_955_31_9,1014,25,CCF
+CCF_FinClp_956_31_11,1837,320,CCF
+CCF_FinClp_957_31_13,2744,271,CCF
+CCF_FinClp_958_31_15,777,9,CCF
+CCF_FinClp_959_31_17,1830,107,CCF
+CCF_FinClp_960_31_19,1281,264,CCF
+CCF_FinClp_962_31_21,1408,82,CCF
+CCF_FinClp_963_31_23,1414,473,CCF
+CCF_FinClp_964_31_25,2614,1046,CCF
+CCF_FinClp_965_31_27,1233,252,CCF
+CCF_FinClp_967_31_29,1003,48,CCF
+CCF_FinClp_968_31_31,1487,13,CCF
+CCF_FinClp_969_31_33,1687,136,CCF
+CCF_FinClp_970_31_35,1038,79,CCF
+CCF_FinClp_971_31_37,657,252,CCF
+CCF_FinClp_972_31_39,399,71,CCF
+CCF_FinClp_973_32_1,139,7,CCF
+CCF_FinClp_974_32_3,536,33,CCF
+CCF_FinClp_975_32_5,876,76,CCF
+CCF_FinClp_977_32_7,1823,69,CCF
+CCF_FinClp_978_32_9,1225,227,CCF
+CCF_FinClp_979_32_11,1030,43,CCF
+CCF_FinClp_980_32_13,1410,139,CCF
+CCF_FinClp_981_32_15,2147,760,CCF
+CCF_FinClp_982_32_17,1219,71,CCF
+CCF_FinClp_983_32_19,1,1,CCF
+CCF_FinClp_984_32_21,1490,157,CCF
+CCF_FinClp_985_32_23,1680,256,CCF
+CCF_FinClp_986_32_25,1028,39,CCF
+CCF_FinClp_987_32_27,689,34,CCF
+CCF_FinClp_988_32_29,664,23,CCF
+CCF_FinClp_991_32_31,807,22,CCF
+CCF_FinClp_992_32_33,1358,46,CCF
+CCF_FinClp_993_32_35,531,90,CCF
+CCF_FinClp_994_32_37,1536,26,CCF
+CCF_FinClp_995_32_39,367,9,CCF
+CCF_FinClp_996_33_1,1233,49,CCF
+CCF_FinClp_997_33_3,948,61,CCF
+CCF_FinClp_998_33_5,456,31,CCF
+CCF_FinClp_999_33_7,2342,804,CCF
+CCF_Stool_Chin_1066,8748,18,GI tract content
+CCF_Stool_Chin_1067,2571,18,GI tract content
+CCF_Stool_Chin_1068,12165,5,GI tract content
+CCF_Stool_Chin_1069,6992,12,GI tract content
+CCF_Stool_Chin_1070,10901,7,GI tract content
+CCF_Stool_Chin_1071,13153,7,GI tract content
+CCF_Stool_Chin_1072,14083,11,GI tract content
+CCF_Stool_Chin_1073,2857,16,GI tract content
+CCF_Stool_Chin_1074,117,3,GI tract content
+CCF_Stool_Chin_1075,9427,8,GI tract content
+CCF_Stool_Chin_1076,6745,10,GI tract content
+CCF_Stool_Chin_1077,123,18,GI tract content
+CCF_Stool_Chin_1078,7157,0,GI tract content
+CCF_Stool_Chin_1079,10742,9,GI tract content
+CCF_Stool_Chin_1080,4222,24,GI tract content
+CCF_Stool_Chin_1081,947,146,GI tract content
+CCF_Stool_Chin_1082,9592,4,GI tract content
+CCF_Stool_Chin_1083,462,11,GI tract content
+CCF_Stool_Chin_1084,6690,21,GI tract content
+CCF_Stool_Chin_1085,5294,8,GI tract content
+CCF_Stool_Chin_1086,6336,33,GI tract content
+CCF_Stool_Chin_1087,12099,5,GI tract content
+CCF_Stool_Chin_1088,12482,7,GI tract content
+CCF_Stool_Chin_1089,1223,13,GI tract content
+CCF_Stool_Chin_1090,7290,9,GI tract content
+CCF_Stool_Chin_1091,2825,72,GI tract content
+CCF_Stool_Chin_1092,7815,4,GI tract content
+CCF_Stool_Chin_1093,0,0,GI tract content
+CCF_Stool_Chin_1094,7907,3,GI tract content
+CCF_Stool_Chin_1095,88,8,GI tract content
+CCF_Stool_Chin_1096,613,23,GI tract content
+CCF_Stool_Chin_1097,2747,1665,GI tract content
+CCF_Stool_Chin_1098,160,68,GI tract content
+CCF_Stool_Chin_1099,163,20,GI tract content
+CCF_Stool_Chin_1100,73,23,GI tract content
+CCF_Stool_Chin_1101,97,28,GI tract content
+CCF_Stool_Chin_1102,2217,1947,GI tract content
+CCF_Stool_Chin_1103,158,70,GI tract content
+CCF_Stool_Chin_1104,5158,3518,GI tract content
+CCF_Stool_Chin_1105,101,28,GI tract content
+CCF_Stool_Chin_1106,707,429,GI tract content
+CCF_Stool_Chin_1107,100,35,GI tract content
+CCF_Stool_Chin_1108,8954,6253,GI tract content
+CCF_Stool_Chin_1109,7291,5072,GI tract content
+CCF_Stool_Chin_1110,159,22,GI tract content
+CCF_Stool_Chin_1111,2366,1778,GI tract content
+CCF_Stool_Chin_1112,1628,1226,GI tract content
+CCF_Stool_Chin_1113,633,17,GI tract content
+CCF_Stool_Chin_1114,4218,677,GI tract content
+CCF_Stool_Chin_1115,5652,4109,GI tract content
+CCF_Stool_Chin_1116,7134,14,GI tract content
+CCF_Stool_Chin_1117,1641,19,GI tract content
+CCF_Stool_Chin_1118,7164,4,GI tract content
+CCF_Stool_Chin_1119,12731,20,GI tract content
+CCF_Stool_Chin_1120,10076,39,GI tract content
+CCF_Stool_Chin_1121,21014,8052,GI tract content
+CCF_Stool_Chin_1122,6511,25,GI tract content
+CCF_Stool_Chin_1123,1453,8,GI tract content
+CCF_Stool_Chin_1124,8868,5663,GI tract content
+CCF_Stool_Chin_1125,978,467,GI tract content
+CCF_Stool_Chin_1126,246,133,GI tract content
+CCF_Stool_Chin_1127,425,39,GI tract content
+CCF_Stool_Chin_1128,232,34,GI tract content
+CCF_Stool_Chin_1130,4359,2707,GI tract content
+CCF_Stool_Chin_1131,8111,5507,GI tract content
+CCF_Stool_Chin_1132,8,0,GI tract content
+CCF_Stool_Chin_1133,1895,1083,GI tract content
+CCF_Stool_Chin_1134,102,18,GI tract content
+CCF_Stool_Chin_1135,298,61,GI tract content
+CCF_Stool_Chin_1137,8473,10,GI tract content
+CCF_Stool_Chin_1139,11526,849,GI tract content
+CCF_Stool_Chin_1141,244,32,GI tract content
+CCF_Stool_Chin_1143,622,329,GI tract content
+CCF_Stool_Chin_1144,111528,39,GI tract content
+CCF_Stool_Chin_1146,255,35,GI tract content
+CCF_Stool_Chin_1147,33758,690,GI tract content
+CCF_Stool_Chin_1148,73837,46580,GI tract content
+CCF_Stool_Chin_1149,70531,38527,GI tract content
+CCF_Stool_Chin_1150,55058,86,GI tract content
+CCF_Stool_Chin_1151,71403,30925,GI tract content
+CCF_Stool_Chin_1152,93551,36,GI tract content
+CCF_Stool_Chin_1153,37065,2024,GI tract content
+CCF_Stool_Chin_1154,19571,61,GI tract content
+CCF_Stool_Chin_1155,500,241,GI tract content
+CCF_Stool_Chin_1156,616,149,GI tract content
+CCF_Stool_Chin_1157,47834,72,GI tract content
+CCF_Stool_Chin_1158,55800,2702,GI tract content
+CCF_Stool_Chin_1159,50513,7749,GI tract content
+CCF_Stool_Chin_1160,35234,65,GI tract content
+CCF_Stool_Chin_1161,4549,2316,GI tract content
+CCF_Stool_Chin_1162,13700,3105,GI tract content
+CCF_Stool_Chin_1163,929,251,GI tract content
+CCF_Stool_Chin_1164,43688,401,GI tract content
+CCF_Stool_Chin_1165,17919,9763,GI tract content
+CCF_Stool_Chin_1166,25051,15870,GI tract content
+CCF_Stool_Chin_1167,18185,10838,GI tract content
+CCF_Stool_Chin_1168,26722,17569,GI tract content
+CCF_Stool_Chin_1169,4563,3107,GI tract content
+CCF_Stool_Chin_1170,58015,16120,GI tract content
+CCF_Stool_Chin_1171,8679,6071,GI tract content
+CCF_Stool_Chin_1172,78722,20275,GI tract content
+CCF_Stool_Chin_1173,5894,3316,GI tract content
+CCF_Stool_Chin_1174,14198,10695,GI tract content
+CCF_Stool_Chin_1175,62137,961,GI tract content
+Chin_FinClp_1000_33_10,6538,5409,Tissue
+Chin_FinClp_1001_33_12,3598,2706,Tissue
+Chin_FinClp_1002_33_14,8783,7598,Tissue
+Chin_FinClp_1003_33_16,9935,8614,Tissue
+Chin_FinClp_1004_33_18,3767,3343,Tissue
+Chin_FinClp_1005_33_20,5208,4252,Tissue
+Chin_FinClp_1006_33_22,6373,5278,Tissue
+Chin_FinClp_1007_33_24,7775,6737,Tissue
+Chin_FinClp_1008_33_26,6119,4709,Tissue
+Chin_FinClp_1009_33_28,7458,5876,Tissue
+Chin_FinClp_1010_33_30,8954,7655,Tissue
+Chin_FinClp_1011_33_32,10561,9194,Tissue
+Chin_FinClp_1012_33_34,8957,7831,Tissue
+Chin_FinClp_1013_33_36,9166,8145,Tissue
+Chin_FinClp_1014_33_38,11023,9416,Tissue
+Chin_FinClp_1015_33_40,6400,4952,Tissue
+Chin_FinClp_1016_34_2,6121,4651,Tissue
+Chin_FinClp_1017_34_4,7147,5904,Tissue
+Chin_FinClp_1018_34_6,7973,7393,Tissue
+Chin_FinClp_1019_34_8,13446,12236,Tissue
+Chin_FinClp_1020_34_10,14451,13650,Tissue
+Chin_FinClp_1021_34_12,10104,8487,Tissue
+Chin_FinClp_1022_34_14,11265,9640,Tissue
+Chin_FinClp_1023_34_16,4928,3956,Tissue
+Chin_FinClp_1024_34_18,8841,7223,Tissue
+Chin_FinClp_1025_34_20,10027,8295,Tissue
+Chin_FinClp_1026_34_22,11051,10167,Tissue
+Chin_FinClp_1027_34_24,9692,8696,Tissue
+Chin_FinClp_1028_34_26,11586,10858,Tissue
+Chin_FinClp_1029_34_28,13621,12121,Tissue
+Chin_FinClp_1030_34_30,7333,6664,Tissue
+Chin_FinClp_1031_34_32,10275,9079,Tissue
+Chin_FinClp_1032_34_34,10000,8211,Tissue
+Chin_FinClp_1033_34_36,3653,2631,Tissue
+Chin_FinClp_1034_34_38,7615,6691,Tissue
+Chin_FinClp_1035_34_40,6589,5491,Tissue
+Chin_FinClp_1036_35_2,4712,3965,Tissue
+Chin_FinClp_1037_35_4,85,75,Tissue
+Chin_FinClp_1038_35_6,4708,4135,Tissue
+Chin_FinClp_1039_35_8,7475,6512,Tissue
+Chin_FinClp_1040_35_10,8592,6953,Tissue
+Chin_FinClp_1041_35_12,7114,5467,Tissue
+Chin_FinClp_1042_35_14,6443,5584,Tissue
+Chin_FinClp_1043_35_16_NoTissue,54,29,Tissue
+Chin_FinClp_1044_35_18,6654,5621,Tissue
+Chin_FinClp_1045_35_20,7444,6237,Tissue
+Chin_FinClp_1046_35_22,7268,5983,Tissue
+Chin_FinClp_1047_35_24,5441,4691,Tissue
+Chin_FinClp_1048_35_26,9277,6634,Tissue
+Chin_FinClp_1049_35_28,6022,4371,Tissue
+Chin_FinClp_1050_35_30,6877,5652,Tissue
+Chin_FinClp_1051_35_32,5281,4428,Tissue
+Chin_FinClp_1052_35_34,5098,3827,Tissue
+Chin_FinClp_1053_35_36,4288,3354,Tissue
+Chin_FinClp_1054_35_38,6412,5142,Tissue
+Chin_FinClp_1055_35_40,5907,4582,Tissue
+Chin_FinClp_1056_36_2,10703,8539,Tissue
+Chin_FinClp_1057_36_4,3974,3156,Tissue
+Chin_FinClp_1058_36_6,5092,4077,Tissue
+Chin_FinClp_1059_36_8,3140,2494,Tissue
+Chin_FinClp_1060_36_10,5491,4383,Tissue
+Chin_FinClp_1061_36_12,1720,767,Tissue
+Chin_FinClp_1062_36_14,3485,1893,Tissue
+Chin_FinClp_1063_36_16,1775,852,Tissue
+Chin_FinClp_1064_36_18,5859,4994,Tissue
+Chin_FinClp_1065_36_20,3931,2971,Tissue
+Chin_FinClp_1066_37_2,8740,6989,Tissue
+Chin_FinClp_1066_37_3,4424,3562,Tissue
+Chin_FinClp_1066_37_4,6941,5504,Tissue
+Chin_FinClp_1067_37_6,4398,3491,Tissue
+Chin_FinClp_1067_37_7,5747,4069,Tissue
+Chin_FinClp_1067_37_8,6690,4313,Tissue
+Chin_FinClp_1068_37_10,13000,11792,Tissue
+Chin_FinClp_1068_37_11,8684,7940,Tissue
+Chin_FinClp_1068_37_12,10479,9499,Tissue
+Chin_FinClp_1069_37_14,9570,8411,Tissue
+Chin_FinClp_1069_37_15,10464,9070,Tissue
+Chin_FinClp_1069_37_16,11906,10900,Tissue
+Chin_FinClp_1070_37_18,6645,5776,Tissue
+Chin_FinClp_1070_37_19,6317,4747,Tissue
+Chin_FinClp_1070_37_20,31,18,Tissue
+Chin_FinClp_1071_37_22,11041,10870,Tissue
+Chin_FinClp_1071_37_23,13790,13213,Tissue
+Chin_FinClp_1071_37_24,10665,9422,Tissue
+Chin_FinClp_1072_37_26,9745,8830,Tissue
+Chin_FinClp_1072_37_27,12849,12208,Tissue
+Chin_FinClp_1072_37_28,8834,7099,Tissue
+Chin_FinClp_1073_37_30,8446,6555,Tissue
+Chin_FinClp_1073_37_31,13313,12592,Tissue
+Chin_FinClp_1073_37_32,14754,14037,Tissue
+Chin_FinClp_1074_37_34,6651,5991,Tissue
+Chin_FinClp_1074_37_35,6290,5606,Tissue
+Chin_FinClp_1074_37_36,10873,9574,Tissue
+Chin_FinClp_1075_37_38,9839,8884,Tissue
+Chin_FinClp_1075_37_39,11032,10142,Tissue
+Chin_FinClp_1075_37_40,8641,6785,Tissue
+Chin_FinClp_1076_38_2,5738,4630,Tissue
+Chin_FinClp_1076_38_3,13962,13088,Tissue
+Chin_FinClp_1076_38_4,6187,5496,Tissue
+Chin_FinClp_1077_38_6,2614,2190,Tissue
+Chin_FinClp_1077_38_7,7055,6316,Tissue
+Chin_FinClp_1077_38_8,6891,6053,Tissue
+Chin_FinClp_1078_38_10,8305,7400,Tissue
+Chin_FinClp_1078_38_11,7768,5568,Tissue
+Chin_FinClp_1078_38_12,7413,6842,Tissue
+Chin_FinClp_1079_38_14,11806,11090,Tissue
+Chin_FinClp_1079_38_15,11731,10354,Tissue
+Chin_FinClp_1079_38_16,6252,5624,Tissue
+Chin_FinClp_1080_38_19,6167,5245,Tissue
+Chin_FinClp_1080_38_20,7623,6867,Tissue
+Chin_FinClp_1081_38_22,6832,5532,Tissue
+Chin_FinClp_1081_38_23,12551,12030,Tissue
+Chin_FinClp_1081_38_24,11250,10996,Tissue
+Chin_FinClp_1082_38_26,7371,6597,Tissue
+Chin_FinClp_1082_38_27,6333,5668,Tissue
+Chin_FinClp_1082_38_28,7331,6498,Tissue
+Chin_FinClp_1083_38_30,10975,10187,Tissue
+Chin_FinClp_1083_38_31,7722,6801,Tissue
+Chin_FinClp_1083_38_32,6352,5197,Tissue
+Chin_FinClp_1084_38_34,5188,4273,Tissue
+Chin_FinClp_1084_38_35,9031,8703,Tissue
+Chin_FinClp_1084_38_36,7558,6625,Tissue
+Chin_FinClp_1085_38_38,3295,2888,Tissue
+Chin_FinClp_1085_38_39,4063,3468,Tissue
+Chin_FinClp_1085_38_40,2867,2448,Tissue
+Chin_FinClp_1086_39_2,6633,5804,Tissue
+Chin_FinClp_1086_39_3,4811,3840,Tissue
+Chin_FinClp_1086_39_4,8491,7935,Tissue
+Chin_FinClp_1087_39_6,9024,8683,Tissue
+Chin_FinClp_1087_39_7,7400,6803,Tissue
+Chin_FinClp_1087_39_8,4795,4410,Tissue
+Chin_FinClp_1088_39_10,6009,5202,Tissue
+Chin_FinClp_1088_39_11,5054,4453,Tissue
+Chin_FinClp_1088_39_12,10683,9083,Tissue
+Chin_FinClp_1089_39_14,7871,6056,Tissue
+Chin_FinClp_1089_39_15,7336,6714,Tissue
+Chin_FinClp_1089_39_16,8783,8315,Tissue
+Chin_FinClp_1090_39_18,8286,7449,Tissue
+Chin_FinClp_1090_39_19,6370,5709,Tissue
+Chin_FinClp_1090_39_20,7110,6253,Tissue
+Chin_FinClp_1091_39_22,9145,8247,Tissue
+Chin_FinClp_1091_39_23,8842,7805,Tissue
+Chin_FinClp_1091_39_24,8695,6649,Tissue
+Chin_FinClp_1092_39_26,8912,8139,Tissue
+Chin_FinClp_1092_39_27,8603,8169,Tissue
+Chin_FinClp_1092_39_28,3557,3182,Tissue
+Chin_FinClp_1093_39_30,5512,5051,Tissue
+Chin_FinClp_1093_39_31,4870,4293,Tissue
+Chin_FinClp_1093_39_32,8350,7306,Tissue
+Chin_FinClp_1094_39_34,8415,7158,Tissue
+Chin_FinClp_1094_39_35,7390,5679,Tissue
+Chin_FinClp_1094_39_36,11936,9380,Tissue
+Chin_FinClp_1095_39_38,8170,7095,Tissue
+Chin_FinClp_1095_39_39,5168,3818,Tissue
+Chin_FinClp_1095_39_40,7990,6499,Tissue
+Chin_FinClp_1096_40_2,7702,6161,Tissue
+Chin_FinClp_1096_40_3,5351,3929,Tissue
+Chin_FinClp_1096_40_4,10918,9262,Tissue
+Chin_FinClp_1097_40_6,1851,536,Tissue
+Chin_FinClp_1097_40_7,4943,3762,Tissue
+Chin_FinClp_1097_40_8,7995,7062,Tissue
+Chin_FinClp_1098_40_10,9545,8356,Tissue
+Chin_FinClp_1098_40_11,6330,5471,Tissue
+Chin_FinClp_1098_40_12,7937,6401,Tissue
+Chin_FinClp_1099_40_14,7416,6104,Tissue
+Chin_FinClp_1099_40_15,6936,4640,Tissue
+Chin_FinClp_1099_40_16,9827,8480,Tissue
+Chin_FinClp_1100_40_18,6620,5415,Tissue
+Chin_FinClp_1100_40_19,4199,3866,Tissue
+Chin_FinClp_1100_40_20,6677,6174,Tissue
+Chin_FinClp_1101_40_22,7356,6434,Tissue
+Chin_FinClp_1101_40_23,7077,5968,Tissue
+Chin_FinClp_1101_40_24,8067,7208,Tissue
+Chin_FinClp_1102_40_26,5834,5082,Tissue
+Chin_FinClp_1102_40_27,11408,9345,Tissue
+Chin_FinClp_1102_40_28,6768,5897,Tissue
+Chin_FinClp_1103_40_30,6667,5766,Tissue
+Chin_FinClp_1103_40_31,4210,3739,Tissue
+Chin_FinClp_1103_40_32,6134,5618,Tissue
+Chin_FinClp_1104_40_34,6703,5786,Tissue
+Chin_FinClp_1104_40_35,6017,5307,Tissue
+Chin_FinClp_1104_40_36,4390,3610,Tissue
+Chin_FinClp_1105_40_38,7082,5952,Tissue
+Chin_FinClp_1105_40_39,7622,6674,Tissue
+Chin_FinClp_1105_40_40,6600,5838,Tissue
+Chin_FinClp_1106_41_2,6908,6488,Tissue
+Chin_FinClp_1106_41_3,7826,7251,Tissue
+Chin_FinClp_1106_41_4,6269,5644,Tissue
+Chin_FinClp_1107_41_6,8139,7420,Tissue
+Chin_FinClp_1107_41_7,7231,6284,Tissue
+Chin_FinClp_1107_41_8,7040,5976,Tissue
+Chin_FinClp_1108_41_10,6597,6034,Tissue
+Chin_FinClp_1108_41_11,6445,5571,Tissue
+Chin_FinClp_1108_41_12,4361,3966,Tissue
+Chin_FinClp_1109_41_14,8092,7338,Tissue
+Chin_FinClp_1109_41_15,5960,5391,Tissue
+Chin_FinClp_1109_41_16,7748,6909,Tissue
+Chin_FinClp_1110_41_18,6774,5590,Tissue
+Chin_FinClp_1110_41_19,4695,3843,Tissue
+Chin_FinClp_1110_41_20,6419,5634,Tissue
+Chin_FinClp_1111_41_22,6218,5421,Tissue
+Chin_FinClp_1111_41_23,4194,3857,Tissue
+Chin_FinClp_1111_41_24,1,0,Tissue
+Chin_FinClp_1112_41_26,6600,5636,Tissue
+Chin_FinClp_1112_41_27,6350,5599,Tissue
+Chin_FinClp_1112_41_28,3310,2717,Tissue
+Chin_FinClp_1113_41_30,5773,5122,Tissue
+Chin_FinClp_1113_41_31,6806,6024,Tissue
+Chin_FinClp_1113_41_32,5271,4850,Tissue
+Chin_FinClp_1114_41_34,6154,5644,Tissue
+Chin_FinClp_1114_41_35,6622,5964,Tissue
+Chin_FinClp_1114_41_36,5425,4825,Tissue
+Chin_FinClp_1115_41_38,5666,5036,Tissue
+Chin_FinClp_1115_41_39,8147,7325,Tissue
+Chin_FinClp_1115_41_40,6452,5332,Tissue
+Chin_FinClp_1116_42_2,7137,6183,Tissue
+Chin_FinClp_1116_42_3,5425,5025,Tissue
+Chin_FinClp_1116_42_4,4498,4010,Tissue
+Chin_FinClp_1117_42_6,8073,7392,Tissue
+Chin_FinClp_1117_42_7,6754,6007,Tissue
+Chin_FinClp_1117_42_8,4186,3742,Tissue
+Chin_FinClp_1118_42_10,4701,4147,Tissue
+Chin_FinClp_1118_42_11,5292,3951,Tissue
+Chin_FinClp_1118_42_12,7421,6655,Tissue
+Chin_FinClp_1119_42_14,5440,4909,Tissue
+Chin_FinClp_1119_42_15,7042,6652,Tissue
+Chin_FinClp_1119_42_16,6102,5377,Tissue
+Chin_FinClp_1120_42_18,6167,5449,Tissue
+Chin_FinClp_1120_42_19,3202,2701,Tissue
+Chin_FinClp_1120_42_20,6864,5816,Tissue
+Chin_FinClp_1121_42_22,6912,5908,Tissue
+Chin_FinClp_1121_42_23,7759,7385,Tissue
+Chin_FinClp_1121_42_24,5810,5200,Tissue
+Chin_FinClp_1122_42_26,4832,4383,Tissue
+Chin_FinClp_1122_42_27,8245,7450,Tissue
+Chin_FinClp_1122_42_28,4611,3817,Tissue
+Chin_FinClp_1123_42_30,4556,4103,Tissue
+Chin_FinClp_1123_42_31,5071,4402,Tissue
+Chin_FinClp_1123_42_32,5124,4070,Tissue
+Chin_FinClp_1124_42_34,7764,7087,Tissue
+Chin_FinClp_1124_42_35,6335,5828,Tissue
+Chin_FinClp_1124_42_36,6394,5772,Tissue
+Chin_FinClp_1125_42_38_NoTissue,21,12,Tissue
+Chin_FinClp_1125_42_39,6403,5673,Tissue
+Chin_FinClp_1125_42_40,5304,4678,Tissue
+Chin_FinClp_1126_43_2,5288,4492,Tissue
+Chin_FinClp_1126_43_3,4360,3195,Tissue
+Chin_FinClp_1126_43_4,7435,5748,Tissue
+Chin_FinClp_1127_43_6,6681,5525,Tissue
+Chin_FinClp_1127_43_7,4736,3869,Tissue
+Chin_FinClp_1127_43_8,7906,6641,Tissue
+Chin_FinClp_1128_43_10,8346,6627,Tissue
+Chin_FinClp_1128_43_11,6410,5549,Tissue
+Chin_FinClp_1128_43_12,5584,4001,Tissue
+Chin_FinClp_1129_43_14,5374,3695,Tissue
+Chin_FinClp_1129_43_15,7528,5988,Tissue
+Chin_FinClp_1129_43_16,3768,2861,Tissue
+Chin_FinClp_1130_43_18,4129,3155,Tissue
+Chin_FinClp_1130_43_19,6953,5071,Tissue
+Chin_FinClp_1130_43_20,9391,6378,Tissue
+Chin_FinClp_1131_43_22,10804,8816,Tissue
+Chin_FinClp_1131_43_23,7163,5652,Tissue
+Chin_FinClp_1131_43_24,7281,6518,Tissue
+Chin_FinClp_1132_43_26,6222,5512,Tissue
+Chin_FinClp_1132_43_27,6416,5631,Tissue
+Chin_FinClp_1132_43_28,9494,8503,Tissue
+Chin_FinClp_1133_43_30,7729,6569,Tissue
+Chin_FinClp_1133_43_31,5734,4805,Tissue
+Chin_FinClp_1133_43_32,4278,3219,Tissue
+Chin_FinClp_1134_43_34,9382,7979,Tissue
+Chin_FinClp_1134_43_35,9890,9228,Tissue
+Chin_FinClp_1134_43_36,8387,7413,Tissue
+Chin_FinClp_1135_43_38,7499,6602,Tissue
+Chin_FinClp_1135_43_39,9766,8694,Tissue
+Chin_FinClp_1135_43_40,8420,7348,Tissue
+Chin_FinClp_1136_44_2,8698,7621,Tissue
+Chin_FinClp_1136_44_3,5483,4050,Tissue
+Chin_FinClp_1136_44_4,8275,7216,Tissue
+Chin_FinClp_1137_44_6,11561,11253,Tissue
+Chin_FinClp_1137_44_7,8085,7394,Tissue
+Chin_FinClp_1137_44_8,7002,6380,Tissue
+Chin_FinClp_1138_44_10,10658,9921,Tissue
+Chin_FinClp_1138_44_11,7753,6873,Tissue
+Chin_FinClp_1138_44_12,9095,7965,Tissue
+Chin_FinClp_1139_44_14,7769,6127,Tissue
+Chin_FinClp_1139_44_15,5970,5143,Tissue
+Chin_FinClp_1139_44_16,7733,7200,Tissue
+Chin_FinClp_1140_44_18,8700,7783,Tissue
+Chin_FinClp_1140_44_19,7232,6412,Tissue
+Chin_FinClp_1140_44_20,10497,9929,Tissue
+Chin_FinClp_1141_44_22,8091,7338,Tissue
+Chin_FinClp_1141_44_23,9722,8626,Tissue
+Chin_FinClp_1141_44_24,6448,5012,Tissue
+Chin_FinClp_1142_44_26,5099,4481,Tissue
+Chin_FinClp_1142_44_27,8535,7664,Tissue
+Chin_FinClp_1142_44_28,9340,8441,Tissue
+Chin_FinClp_1143_44_30,8946,8160,Tissue
+Chin_FinClp_1143_44_32,5172,4409,Tissue
+Chin_FinClp_1144_44_34,8173,6808,Tissue
+Chin_FinClp_1144_44_35,7553,6046,Tissue
+Chin_FinClp_1144_44_36,6157,5281,Tissue
+Chin_FinClp_1145_44_38,9753,9241,Tissue
+Chin_FinClp_1145_44_39,6735,6065,Tissue
+Chin_FinClp_1145_44_40,7809,6993,Tissue
+Chin_FinClp_1146_45_2,10404,9671,Tissue
+Chin_FinClp_1146_45_3,7435,6471,Tissue
+Chin_FinClp_1146_45_4,7492,6719,Tissue
+Chin_FinClp_1147_45_6,5925,4855,Tissue
+Chin_FinClp_1147_45_7,5631,5022,Tissue
+Chin_FinClp_1147_45_8,6645,6132,Tissue
+Chin_FinClp_1148_45_10,5546,5046,Tissue
+Chin_FinClp_1148_45_11,4824,4395,Tissue
+Chin_FinClp_1148_45_12,7317,6967,Tissue
+Chin_FinClp_1149_45_14,6454,5654,Tissue
+Chin_FinClp_1149_45_15,6036,5281,Tissue
+Chin_FinClp_1149_45_16,6481,5376,Tissue
+Chin_FinClp_1150_45_18,6516,5485,Tissue
+Chin_FinClp_1150_45_19,8827,8028,Tissue
+Chin_FinClp_1150_45_20,6241,5565,Tissue
+Chin_FinClp_1151_45_22,5827,5270,Tissue
+Chin_FinClp_1151_45_23,6938,6105,Tissue
+Chin_FinClp_1151_45_24,6741,6146,Tissue
+Chin_FinClp_1152_45_26,5097,4363,Tissue
+Chin_FinClp_1152_45_27,6370,4407,Tissue
+Chin_FinClp_1152_45_28,6504,5458,Tissue
+Chin_FinClp_1153_45_30,7666,6739,Tissue
+Chin_FinClp_1153_45_31,6343,5647,Tissue
+Chin_FinClp_1153_45_32,7068,6364,Tissue
+Chin_FinClp_1154_45_34,7554,6701,Tissue
+Chin_FinClp_1154_45_35,8650,7443,Tissue
+Chin_FinClp_1154_45_36,6527,5892,Tissue
+Chin_FinClp_1155_45_38,5721,4339,Tissue
+Chin_FinClp_1155_45_39,6998,5884,Tissue
+Chin_FinClp_1155_45_40,7739,6825,Tissue
+Chin_FinClp_1156_46_2,6831,6183,Tissue
+Chin_FinClp_1156_46_3,6284,5666,Tissue
+Chin_FinClp_1156_46_4,8638,7907,Tissue
+Chin_FinClp_1157_46_6,6709,5600,Tissue
+Chin_FinClp_1157_46_7,5984,5179,Tissue
+Chin_FinClp_1157_46_8,8335,6583,Tissue
+Chin_FinClp_1158_46_10,7441,6101,Tissue
+Chin_FinClp_1158_46_11,8293,6676,Tissue
+Chin_FinClp_1158_46_12,5271,4239,Tissue
+Chin_FinClp_1159_46_14,2273,1901,Tissue
+Chin_FinClp_1159_46_15,5345,4470,Tissue
+Chin_FinClp_1159_46_16,5247,4477,Tissue
+Chin_FinClp_1160_46_18,5016,4379,Tissue
+Chin_FinClp_1160_46_19,6829,6309,Tissue
+Chin_FinClp_1160_46_20,13722,12817,Tissue
+Chin_FinClp_1161_46_22,17709,16601,Tissue
+Chin_FinClp_1161_46_23,14157,13405,Tissue
+Chin_FinClp_1161_46_24,16215,14755,Tissue
+Chin_FinClp_1162_46_26,13639,10082,Tissue
+Chin_FinClp_1162_46_27,13514,9655,Tissue
+Chin_FinClp_1162_46_28,10527,6545,Tissue
+Chin_FinClp_1163_46_30,15017,12466,Tissue
+Chin_FinClp_1163_46_31,13442,11477,Tissue
+Chin_FinClp_1163_46_32,15398,13725,Tissue
+Chin_FinClp_1164_46_34,15141,12864,Tissue
+Chin_FinClp_1164_46_35,11548,9357,Tissue
+Chin_FinClp_1164_46_36,10971,9057,Tissue
+Chin_FinClp_1165_46_38,11729,9305,Tissue
+Chin_FinClp_1165_46_39,8217,5829,Tissue
+Chin_FinClp_1165_46_40,10946,9161,Tissue
+Chin_FinClp_1166_47_2,10937,9676,Tissue
+Chin_FinClp_1166_47_3,8967,7664,Tissue
+Chin_FinClp_1166_47_4,10572,9380,Tissue
+Chin_FinClp_1167_47_6,10034,8757,Tissue
+Chin_FinClp_1167_47_7,7934,6391,Tissue
+Chin_FinClp_1167_47_8,12248,10403,Tissue
+Chin_FinClp_1168_47_10,9510,6449,Tissue
+Chin_FinClp_1168_47_11,13557,11416,Tissue
+Chin_FinClp_1168_47_12,11686,10391,Tissue
+Chin_FinClp_1169_47_14,8623,7306,Tissue
+Chin_FinClp_1169_47_15,10995,9321,Tissue
+Chin_FinClp_1169_47_16,13,7,Tissue
+Chin_FinClp_1170_47_18,9489,8400,Tissue
+Chin_FinClp_1170_47_19,8425,7213,Tissue
+Chin_FinClp_1170_47_20,10326,7267,Tissue
+Chin_FinClp_1171_47_22,18193,14977,Tissue
+Chin_FinClp_1171_47_23,13962,12381,Tissue
+Chin_FinClp_1171_47_24,13947,12256,Tissue
+Chin_FinClp_1172_47_26,9827,8628,Tissue
+Chin_FinClp_1172_47_27,7786,6384,Tissue
+Chin_FinClp_1172_47_28,10665,8471,Tissue
+Chin_FinClp_1173_47_30,9555,7904,Tissue
+Chin_FinClp_1173_47_31,16585,12752,Tissue
+Chin_FinClp_1173_47_32,11262,9930,Tissue
+Chin_FinClp_1174_47_34,11237,9743,Tissue
+Chin_FinClp_1174_47_35,17649,15792,Tissue
+Chin_FinClp_1174_47_36,15268,13104,Tissue
+Chin_FinClp_1175_47_39,12076,9945,Tissue
+Chin_FinClp_1175_47_40,10393,8472,Tissue
+Chin_FinClp_526_1_2,1,0,Tissue
+Chin_FinClp_527_1_4,6399,4488,Tissue
+Chin_FinClp_528_1_6,9890,7637,Tissue
+Chin_FinClp_529_1_8,12059,8556,Tissue
+Chin_FinClp_530_1_10,15259,11447,Tissue
+Chin_FinClp_531_1_12,6646,4338,Tissue
+Chin_FinClp_532_1_14,16205,11457,Tissue
+Chin_FinClp_533_1_16,15561,11119,Tissue
+Chin_FinClp_534_1_18,8255,5891,Tissue
+Chin_FinClp_535_1_20,12157,9219,Tissue
+Chin_FinClp_536_1_22,14330,11420,Tissue
+Chin_FinClp_537_1_24,14819,11650,Tissue
+Chin_FinClp_538_1_26,7066,4021,Tissue
+Chin_FinClp_539_1_28,11824,8727,Tissue
+Chin_FinClp_540_1_30,15056,11454,Tissue
+Chin_FinClp_541_1_32,9667,7347,Tissue
+Chin_FinClp_542_1_34,4481,2064,Tissue
+Chin_FinClp_543_1_36,2540,1186,Tissue
+Chin_FinClp_544_1_38,11420,8882,Tissue
+Chin_FinClp_551_1_40,6914,4797,Tissue
+Chin_FinClp_552_2_2,12543,9254,Tissue
+Chin_FinClp_553_2_4,13705,10422,Tissue
+Chin_FinClp_554_2_6,10739,7604,Tissue
+Chin_FinClp_555_2_8,12528,9542,Tissue
+Chin_FinClp_556_2_10,8962,7183,Tissue
+Chin_FinClp_557_2_12,9722,8268,Tissue
+Chin_FinClp_558_2_14,8220,6947,Tissue
+Chin_FinClp_559_2_16,10316,8691,Tissue
+Chin_FinClp_560_2_18,17237,14412,Tissue
+Chin_FinClp_561_2_20,12714,10373,Tissue
+Chin_FinClp_562_2_22,14443,10370,Tissue
+Chin_FinClp_563_2_24,12538,10203,Tissue
+Chin_FinClp_564_2_26,10038,6853,Tissue
+Chin_FinClp_565_2_28,10879,8240,Tissue
+Chin_FinClp_566_2_30,12058,9876,Tissue
+Chin_FinClp_567_2_32,10557,8568,Tissue
+Chin_FinClp_568_2_34,15926,11916,Tissue
+Chin_FinClp_569_2_36,11747,9170,Tissue
+Chin_FinClp_570_2_38,16615,13495,Tissue
+Chin_FinClp_571_2_40,13546,10531,Tissue
+Chin_FinClp_572_3_2,8028,6273,Tissue
+Chin_FinClp_573_3_4,9923,8346,Tissue
+Chin_FinClp_574_3_6,11872,9410,Tissue
+Chin_FinClp_575_3_8,11180,9058,Tissue
+Chin_FinClp_577_3_12,10091,7850,Tissue
+Chin_FinClp_578_3_14,11270,8207,Tissue
+Chin_FinClp_579_3_16,16238,13900,Tissue
+Chin_FinClp_580_3_18,7291,5688,Tissue
+Chin_FinClp_581_3_20,19,16,Tissue
+Chin_FinClp_582_3_22,10241,8754,Tissue
+Chin_FinClp_583_3_24,7999,5658,Tissue
+Chin_FinClp_584_3_26,10320,8266,Tissue
+Chin_FinClp_585_3_28,9355,7247,Tissue
+Chin_FinClp_586_3_30,9677,8120,Tissue
+Chin_FinClp_587_3_32,8858,6873,Tissue
+Chin_FinClp_588_3_34,8852,6859,Tissue
+Chin_FinClp_589_3_36,10169,8125,Tissue
+Chin_FinClp_590_3_38,7442,5593,Tissue
+Chin_FinClp_591_3_40,8871,7425,Tissue
+Chin_FinClp_592_4_2,10421,8706,Tissue
+Chin_FinClp_594_4_4,8305,7095,Tissue
+Chin_FinClp_595_4_6,9987,8476,Tissue
+Chin_FinClp_596_4_8,11772,9632,Tissue
+Chin_FinClp_597_4_10,10044,7849,Tissue
+Chin_FinClp_598_4_12,9730,7518,Tissue
+Chin_FinClp_599_4_14,9215,7075,Tissue
+Chin_FinClp_600_4_16,9827,7974,Tissue
+Chin_FinClp_601_4_18,9228,7314,Tissue
+Chin_FinClp_602_4_20,11590,9966,Tissue
+Chin_FinClp_603_4_22,10133,8299,Tissue
+Chin_FinClp_604_4_24,10081,8870,Tissue
+Chin_FinClp_605_4_26,9133,7291,Tissue
+Chin_FinClp_606_4_28,8243,6444,Tissue
+Chin_FinClp_607_4_30,9599,8501,Tissue
+Chin_FinClp_608_4_32,7994,6487,Tissue
+Chin_FinClp_609_4_34,7557,5907,Tissue
+Chin_FinClp_610_4_36,8719,6911,Tissue
+Chin_FinClp_611_4_38,8350,7030,Tissue
+Chin_FinClp_612_4_40,9258,7655,Tissue
+Chin_FinClp_613_5_2,7707,5516,Tissue
+Chin_FinClp_614_5_4,10659,8342,Tissue
+Chin_FinClp_615_5_6,9659,8052,Tissue
+Chin_FinClp_616_5_8,8339,7089,Tissue
+Chin_FinClp_617_5_10,10489,8698,Tissue
+Chin_FinClp_618_5_12,8673,7077,Tissue
+Chin_FinClp_619_5_14,8695,6193,Tissue
+Chin_FinClp_620_5_16,8188,6904,Tissue
+Chin_FinClp_621_5_18,13,10,Tissue
+Chin_FinClp_622_5_20,6623,5264,Tissue
+Chin_FinClp_623_5_22,7337,5153,Tissue
+Chin_FinClp_624_5_24,1906,1474,Tissue
+Chin_FinClp_625_5_26,5045,3820,Tissue
+Chin_FinClp_626_5_28,6534,5014,Tissue
+Chin_FinClp_628_5_30,7728,5493,Tissue
+Chin_FinClp_629_5_32,7365,5681,Tissue
+Chin_FinClp_630_5_34,10182,7728,Tissue
+Chin_FinClp_631_5_36,1245,1013,Tissue
+Chin_FinClp_632_5_38,43,24,Tissue
+Chin_FinClp_635_5_40,13815,10175,Tissue
+Chin_FinClp_636_6_2,9245,6351,Tissue
+Chin_FinClp_640_7_2,15920,11510,Tissue
+Chin_FinClp_640_7_3,12836,8818,Tissue
+Chin_FinClp_640_7_4,3725,2907,Tissue
+Chin_FinClp_641_7_6,7982,6818,Tissue
+Chin_FinClp_641_7_7,10517,8882,Tissue
+Chin_FinClp_641_7_8,4806,3434,Tissue
+Chin_FinClp_642_7_10,9242,7206,Tissue
+Chin_FinClp_642_7_11,12490,9879,Tissue
+Chin_FinClp_642_7_12,3498,2614,Tissue
+Chin_FinClp_643_7_14,7511,5952,Tissue
+Chin_FinClp_643_7_15,11605,9006,Tissue
+Chin_FinClp_643_7_16,9934,8184,Tissue
+Chin_FinClp_644_7_18,9296,7704,Tissue
+Chin_FinClp_644_7_19,8048,6504,Tissue
+Chin_FinClp_644_7_20,9363,7622,Tissue
+Chin_FinClp_645_7_22,11728,8831,Tissue
+Chin_FinClp_645_7_23,8285,6953,Tissue
+Chin_FinClp_645_7_24,14693,10911,Tissue
+Chin_FinClp_646_7_26,12329,9970,Tissue
+Chin_FinClp_646_7_27,10869,9162,Tissue
+Chin_FinClp_646_7_28,9365,7515,Tissue
+Chin_FinClp_647_7_30,12304,8809,Tissue
+Chin_FinClp_647_7_31,10791,8669,Tissue
+Chin_FinClp_647_7_32,8493,6970,Tissue
+Chin_FinClp_649_7_34,12264,8705,Tissue
+Chin_FinClp_649_7_35,10101,7688,Tissue
+Chin_FinClp_649_7_36,13533,10549,Tissue
+Chin_FinClp_650_7_38,12899,10463,Tissue
+Chin_FinClp_650_7_39,10947,8776,Tissue
+Chin_FinClp_650_7_40,10463,8688,Tissue
+Chin_FinClp_651_10_14,10113,8417,Tissue
+Chin_FinClp_651_10_15,13415,10806,Tissue
+Chin_FinClp_651_10_16,9678,7306,Tissue
+Chin_FinClp_652_10_10,10649,7873,Tissue
+Chin_FinClp_652_10_11,11881,9977,Tissue
+Chin_FinClp_652_10_12,12439,10494,Tissue
+Chin_FinClp_653_10_6,11327,9502,Tissue
+Chin_FinClp_653_10_7,8952,7692,Tissue
+Chin_FinClp_653_10_8,1,0,Tissue
+Chin_FinClp_654_10_2,10599,8706,Tissue
+Chin_FinClp_654_10_3,9820,8134,Tissue
+Chin_FinClp_654_10_4,9215,7112,Tissue
+Chin_FinClp_655_9_38,11472,8901,Tissue
+Chin_FinClp_655_9_39,10034,8544,Tissue
+Chin_FinClp_655_9_40,7917,6774,Tissue
+Chin_FinClp_656_9_34,11731,9637,Tissue
+Chin_FinClp_656_9_35,10611,8263,Tissue
+Chin_FinClp_656_9_36,10860,8598,Tissue
+Chin_FinClp_657_9_30,8547,7127,Tissue
+Chin_FinClp_657_9_31,8127,5884,Tissue
+Chin_FinClp_657_9_32,8686,7388,Tissue
+Chin_FinClp_658_9_26,12784,10091,Tissue
+Chin_FinClp_658_9_27,12136,10185,Tissue
+Chin_FinClp_658_9_28,12695,10255,Tissue
+Chin_FinClp_659_9_22,7896,6494,Tissue
+Chin_FinClp_659_9_23,11322,9271,Tissue
+Chin_FinClp_659_9_24,8743,6828,Tissue
+Chin_FinClp_660_9_18,7524,5538,Tissue
+Chin_FinClp_660_9_19,8107,6607,Tissue
+Chin_FinClp_660_9_20,12065,9701,Tissue
+Chin_FinClp_661_9_14,10229,8601,Tissue
+Chin_FinClp_661_9_15,14186,11258,Tissue
+Chin_FinClp_661_9_16,8995,7284,Tissue
+Chin_FinClp_662_9_10,9209,7599,Tissue
+Chin_FinClp_662_9_11,8317,6467,Tissue
+Chin_FinClp_662_9_12,6599,4762,Tissue
+Chin_FinClp_663_9_6,9423,7330,Tissue
+Chin_FinClp_663_9_7,9213,7590,Tissue
+Chin_FinClp_663_9_8,9453,7580,Tissue
+Chin_FinClp_665_9_2,7654,5935,Tissue
+Chin_FinClp_665_9_3,7242,5576,Tissue
+Chin_FinClp_665_9_4,6914,5354,Tissue
+Chin_FinClp_666_8_38,7223,5508,Tissue
+Chin_FinClp_666_8_39,8839,6533,Tissue
+Chin_FinClp_666_8_40,7243,6088,Tissue
+Chin_FinClp_667_8_34,6707,5380,Tissue
+Chin_FinClp_667_8_35,7673,6031,Tissue
+Chin_FinClp_667_8_36,9839,7946,Tissue
+Chin_FinClp_668_8_30,7644,5899,Tissue
+Chin_FinClp_668_8_31,6796,4938,Tissue
+Chin_FinClp_668_8_32,8875,6809,Tissue
+Chin_FinClp_669_8_26,3428,2211,Tissue
+Chin_FinClp_669_8_27,3357,2167,Tissue
+Chin_FinClp_669_8_28,3941,2233,Tissue
+Chin_FinClp_670_8_22,6892,4560,Tissue
+Chin_FinClp_670_8_23,6402,4795,Tissue
+Chin_FinClp_670_8_24,6430,4245,Tissue
+Chin_FinClp_671_8_18,3970,2315,Tissue
+Chin_FinClp_671_8_19,7176,5556,Tissue
+Chin_FinClp_671_8_20,19007,10791,Tissue
+Chin_FinClp_672_8_14,17138,9641,Tissue
+Chin_FinClp_672_8_15,14611,8322,Tissue
+Chin_FinClp_672_8_16,11009,6757,Tissue
+Chin_FinClp_673_8_10,15577,8366,Tissue
+Chin_FinClp_673_8_11,14995,8408,Tissue
+Chin_FinClp_673_8_12,18813,11211,Tissue
+Chin_FinClp_674_8_6,22078,14497,Tissue
+Chin_FinClp_674_8_7,16641,9765,Tissue
+Chin_FinClp_674_8_8,12498,6915,Tissue
+Chin_FinClp_675_8_2,13089,7485,Tissue
+Chin_FinClp_675_8_3,12730,7440,Tissue
+Chin_FinClp_675_8_4,13187,6998,Tissue
+Chin_FinClp_676_10_18,10120,5768,Tissue
+Chin_FinClp_676_10_19,16878,10728,Tissue
+Chin_FinClp_676_10_20,14475,9567,Tissue
+Chin_FinClp_677_10_22,16092,8968,Tissue
+Chin_FinClp_677_10_23,14438,8069,Tissue
+Chin_FinClp_677_10_24,14898,8986,Tissue
+Chin_FinClp_678_10_26,16225,10339,Tissue
+Chin_FinClp_678_10_27,11812,7567,Tissue
+Chin_FinClp_678_10_28,13366,8046,Tissue
+Chin_FinClp_679_10_30,13647,7586,Tissue
+Chin_FinClp_679_10_31,17083,9850,Tissue
+Chin_FinClp_679_10_32,17445,10349,Tissue
+Chin_FinClp_680_10_34,13288,7779,Tissue
+Chin_FinClp_680_10_35,11557,7352,Tissue
+Chin_FinClp_680_10_36,14976,8668,Tissue
+Chin_FinClp_681_10_38,11800,7502,Tissue
+Chin_FinClp_681_10_39,11980,6881,Tissue
+Chin_FinClp_681_10_40,9971,5627,Tissue
+Chin_FinClp_682_11_2,5263,2705,Tissue
+Chin_FinClp_682_11_3,3173,1904,Tissue
+Chin_FinClp_682_11_4,17322,11771,Tissue
+Chin_FinClp_683_11_6,11003,6143,Tissue
+Chin_FinClp_683_11_7,9741,5293,Tissue
+Chin_FinClp_683_11_8,11150,6330,Tissue
+Chin_FinClp_684_11_10,12511,7236,Tissue
+Chin_FinClp_684_11_11,20287,11728,Tissue
+Chin_FinClp_684_11_12,8280,4821,Tissue
+Chin_FinClp_685_11_14,15950,9882,Tissue
+Chin_FinClp_685_11_15,10751,6378,Tissue
+Chin_FinClp_685_11_16,12108,7166,Tissue
+Chin_FinClp_686_11_18,5331,2845,Tissue
+Chin_FinClp_686_11_19,12720,7783,Tissue
+Chin_FinClp_686_11_20,12097,6846,Tissue
+Chin_FinClp_687_11_22,12616,7319,Tissue
+Chin_FinClp_687_11_23,9362,5156,Tissue
+Chin_FinClp_687_11_24,18546,10406,Tissue
+Chin_FinClp_688_11_26,14279,8489,Tissue
+Chin_FinClp_688_11_27,11189,5954,Tissue
+Chin_FinClp_688_11_28,3937,2192,Tissue
+Chin_FinClp_689_11_30,12052,7095,Tissue
+Chin_FinClp_689_11_31,6443,3274,Tissue
+Chin_FinClp_689_11_32,9533,5115,Tissue
+Chin_FinClp_690_11_34,9948,5148,Tissue
+Chin_FinClp_690_11_35,15965,9699,Tissue
+Chin_FinClp_690_11_36,11913,7317,Tissue
+Chin_FinClp_691_11_38,7155,4213,Tissue
+Chin_FinClp_691_11_39,12714,7453,Tissue
+Chin_FinClp_691_11_40,10710,6056,Tissue
+Chin_FinClp_692_12_2,5847,3238,Tissue
+Chin_FinClp_692_12_3,12642,7164,Tissue
+Chin_FinClp_692_12_4,6734,3670,Tissue
+Chin_FinClp_693_12_6,15333,8496,Tissue
+Chin_FinClp_693_12_7,13248,7603,Tissue
+Chin_FinClp_693_12_8,11716,6962,Tissue
+Chin_FinClp_694_12_10,14366,8313,Tissue
+Chin_FinClp_694_12_11,14434,8464,Tissue
+Chin_FinClp_694_12_12,12599,7084,Tissue
+Chin_FinClp_695_12_14,12118,7300,Tissue
+Chin_FinClp_695_12_15,13746,8071,Tissue
+Chin_FinClp_695_12_16,19293,11723,Tissue
+Chin_FinClp_696_12_18,13271,7295,Tissue
+Chin_FinClp_696_12_19,13783,7653,Tissue
+Chin_FinClp_696_12_20,11164,6335,Tissue
+Chin_FinClp_697_12_22,12775,7896,Tissue
+Chin_FinClp_697_12_23,14726,7928,Tissue
+Chin_FinClp_697_12_24,12245,7097,Tissue
+Chin_FinClp_698_12_26,16734,9357,Tissue
+Chin_FinClp_698_12_27,16804,9140,Tissue
+Chin_FinClp_698_12_28,13580,7778,Tissue
+Chin_FinClp_699_12_30,13373,7881,Tissue
+Chin_FinClp_699_12_31,13663,7817,Tissue
+Chin_FinClp_699_12_32,13004,7750,Tissue
+Chin_FinClp_700_12_34,14358,8559,Tissue
+Chin_FinClp_700_12_35,18321,10365,Tissue
+Chin_FinClp_700_12_36,13467,8617,Tissue
+Chin_FinClp_701_12_38,14800,8766,Tissue
+Chin_FinClp_701_12_39,19788,11464,Tissue
+Chin_FinClp_701_12_40,14540,8811,Tissue
+Chin_FinClp_702_13_2,11532,7555,Tissue
+Chin_FinClp_702_13_3,16997,10497,Tissue
+Chin_FinClp_702_13_4,11200,6094,Tissue
+Chin_FinClp_703_13_6,16098,9396,Tissue
+Chin_FinClp_703_13_7,26336,16656,Tissue
+Chin_FinClp_703_13_8,23009,14576,Tissue
+Chin_FinClp_704_13_10,23111,15008,Tissue
+Chin_FinClp_704_13_11,15358,9528,Tissue
+Chin_FinClp_704_13_12,17130,9779,Tissue
+Chin_FinClp_705_13_14,18588,11263,Tissue
+Chin_FinClp_705_13_15,15720,8873,Tissue
+Chin_FinClp_705_13_16,5416,3273,Tissue
+Chin_FinClp_706_13_18,20811,12769,Tissue
+Chin_FinClp_706_13_19,15438,9885,Tissue
+Chin_FinClp_706_13_20,17808,11106,Tissue
+Chin_FinClp_707_13_22,18898,11541,Tissue
+Chin_FinClp_707_13_23,23352,14067,Tissue
+Chin_FinClp_707_13_24,16645,10136,Tissue
+Chin_FinClp_708_13_26,25432,16523,Tissue
+Chin_FinClp_708_13_27,10121,6182,Tissue
+Chin_FinClp_708_13_28,17757,11262,Tissue
+Chin_FinClp_709_13_30,15713,10305,Tissue
+Chin_FinClp_709_13_31,16265,10018,Tissue
+Chin_FinClp_709_13_32,13230,8224,Tissue
+Chin_FinClp_710_13_34,13730,8946,Tissue
+Chin_FinClp_710_13_35,14667,7875,Tissue
+Chin_FinClp_710_13_36,18522,9645,Tissue
+Chin_FinClp_711_13_38,18086,10916,Tissue
+Chin_FinClp_711_13_39,20877,14665,Tissue
+Chin_FinClp_711_13_40,19106,12315,Tissue
+Chin_FinClp_712_14_2,13617,8969,Tissue
+Chin_FinClp_712_14_3,16070,10323,Tissue
+Chin_FinClp_712_14_4,17016,11047,Tissue
+Chin_FinClp_713_14_6,16327,10461,Tissue
+Chin_FinClp_713_14_7,16703,10865,Tissue
+Chin_FinClp_713_14_8,13646,8702,Tissue
+Chin_FinClp_714_14_10,21375,15165,Tissue
+Chin_FinClp_714_14_11,13220,7987,Tissue
+Chin_FinClp_714_14_12,11598,7024,Tissue
+Chin_FinClp_715_14_14,12989,8653,Tissue
+Chin_FinClp_715_14_15,66,39,Tissue
+Chin_FinClp_715_14_16,14069,9088,Tissue
+Chin_FinClp_716_14_18,17541,12767,Tissue
+Chin_FinClp_716_14_19,19021,12204,Tissue
+Chin_FinClp_716_14_20,11111,7578,Tissue
+Chin_FinClp_717_14_22,14157,9297,Tissue
+Chin_FinClp_717_14_23,16267,10286,Tissue
+Chin_FinClp_717_14_24,10837,7121,Tissue
+Chin_FinClp_718_14_26,12069,8161,Tissue
+Chin_FinClp_718_14_27,11330,7232,Tissue
+Chin_FinClp_718_14_28,13198,8253,Tissue
+Chin_FinClp_719_14_30,11225,7074,Tissue
+Chin_FinClp_719_14_31,15661,10171,Tissue
+Chin_FinClp_719_14_32,10869,6592,Tissue
+Chin_FinClp_720_14_34,17839,13192,Tissue
+Chin_FinClp_720_14_35,4968,3074,Tissue
+Chin_FinClp_720_14_36,12110,7062,Tissue
+Chin_FinClp_721_14_38,13408,7753,Tissue
+Chin_FinClp_721_14_39,15666,9355,Tissue
+Chin_FinClp_721_14_40,12022,7122,Tissue
+Chin_FinClp_722_15_2,15197,10931,Tissue
+Chin_FinClp_722_15_3,9599,5682,Tissue
+Chin_FinClp_722_15_4,9926,5758,Tissue
+Chin_FinClp_723_15_6,9980,6490,Tissue
+Chin_FinClp_723_15_7,13240,9262,Tissue
+Chin_FinClp_723_15_8,9946,6201,Tissue
+Chin_FinClp_724_15_10,12715,7581,Tissue
+Chin_FinClp_724_15_11,13000,7587,Tissue
+Chin_FinClp_724_15_12,19275,12642,Tissue
+Chin_FinClp_725_15_14,15276,10650,Tissue
+Chin_FinClp_725_15_15,12791,8188,Tissue
+Chin_FinClp_725_15_16,12529,7289,Tissue
+Chin_FinClp_726_15_18,16031,10501,Tissue
+Chin_FinClp_726_15_19,14741,9530,Tissue
+Chin_FinClp_726_15_20,16563,8936,Tissue
+Chin_FinClp_727_15_22,11264,7061,Tissue
+Chin_FinClp_727_15_23,17626,11612,Tissue
+Chin_FinClp_727_15_24,15382,9162,Tissue
+Chin_FinClp_728_15_26,15751,10017,Tissue
+Chin_FinClp_728_15_27,9781,6677,Tissue
+Chin_FinClp_728_15_28,9649,5772,Tissue
+Chin_FinClp_729_15_30,11629,8047,Tissue
+Chin_FinClp_729_15_31,10810,6724,Tissue
+Chin_FinClp_729_15_32,11102,7187,Tissue
+Chin_FinClp_730_15_34,20823,14313,Tissue
+Chin_FinClp_730_15_35,14321,9132,Tissue
+Chin_FinClp_730_15_36,13445,8092,Tissue
+Chin_FinClp_731_15_38,13051,8747,Tissue
+Chin_FinClp_731_15_39,10542,5923,Tissue
+Chin_FinClp_731_15_40,9828,6182,Tissue
+Chin_FinClp_732_16_2,17241,10560,Tissue
+Chin_FinClp_732_16_3,12133,7570,Tissue
+Chin_FinClp_732_16_4,19065,12336,Tissue
+Chin_FinClp_733_16_6,13773,8540,Tissue
+Chin_FinClp_733_16_7,14578,9155,Tissue
+Chin_FinClp_733_16_8,10772,6447,Tissue
+Chin_FinClp_734_16_10,10957,7677,Tissue
+Chin_FinClp_734_16_11,9270,6051,Tissue
+Chin_FinClp_734_16_12,8780,6252,Tissue
+Chin_FinClp_735_16_14,1988,688,Tissue
+Chin_FinClp_735_16_15,12000,8472,Tissue
+Chin_FinClp_735_16_16,12178,8498,Tissue
+Chin_FinClp_736_16_18,12939,9490,Tissue
+Chin_FinClp_736_16_19,13365,9616,Tissue
+Chin_FinClp_736_16_20,10493,7178,Tissue
+Chin_FinClp_737_16_22,7997,5809,Tissue
+Chin_FinClp_737_16_23,10211,7702,Tissue
+Chin_FinClp_737_16_24,8082,5959,Tissue
+Chin_FinClp_738_16_26,9286,6646,Tissue
+Chin_FinClp_738_16_27,8229,6198,Tissue
+Chin_FinClp_738_16_28,9905,7429,Tissue
+Chin_FinClp_739_16_30,9023,6971,Tissue
+Chin_FinClp_739_16_31,9126,5957,Tissue
+Chin_FinClp_739_16_32,8977,6629,Tissue
+Chin_FinClp_740_16_34,8609,6375,Tissue
+Chin_FinClp_740_16_35,8311,6290,Tissue
+Chin_FinClp_740_16_36,9665,7057,Tissue
+Chin_FinClp_741_16_38,8155,5921,Tissue
+Chin_FinClp_741_16_39,7848,5794,Tissue
+Chin_FinClp_741_16_40,14897,11641,Tissue
+Chin_FinClp_742_17_2,8690,5588,Tissue
+Chin_FinClp_742_17_3,9017,6518,Tissue
+Chin_FinClp_742_17_4,10041,7640,Tissue
+Chin_FinClp_744_18_2,10519,7789,Tissue
+Chin_FinClp_745_18_4,10489,7864,Tissue
+Chin_FinClp_746_18_6,6024,4376,Tissue
+Chin_FinClp_748_18_8,9119,6471,Tissue
+Chin_FinClp_751_18_10,6523,4563,Tissue
+Chin_FinClp_752_18_12,8234,4955,Tissue
+Chin_FinClp_753_18_14,7541,5228,Tissue
+Chin_FinClp_754_18_16,11963,9170,Tissue
+Chin_FinClp_755_18_18,9312,7053,Tissue
+Chin_FinClp_757_18_20,9300,6962,Tissue
+Chin_FinClp_759_18_22,7125,5073,Tissue
+Chin_FinClp_760_18_24,9696,6915,Tissue
+Chin_FinClp_761_18_26,9096,6594,Tissue
+Chin_FinClp_764_18_28,4205,2617,Tissue
+Chin_FinClp_765_18_30,4271,2924,Tissue
+Chin_FinClp_767_18_32,6543,4439,Tissue
+Chin_FinClp_768_18_34,7586,6377,Tissue
+Chin_FinClp_769_18_36,3,2,Tissue
+Chin_FinClp_770_18_38,11364,9582,Tissue
+Chin_FinClp_771_18_40,10273,8894,Tissue
+Chin_FinClp_772_19_2,6456,5131,Tissue
+Chin_FinClp_773_19_4,4043,2586,Tissue
+Chin_FinClp_774_19_6,8400,6849,Tissue
+Chin_FinClp_775_19_8,7554,6178,Tissue
+Chin_FinClp_776_19_10,6561,5483,Tissue
+Chin_FinClp_778_19_12,7797,6244,Tissue
+Chin_FinClp_779_19_14,6519,5330,Tissue
+Chin_FinClp_780_19_16,6156,5009,Tissue
+Chin_FinClp_781_19_18,5150,4026,Tissue
+Chin_FinClp_782_19_20,4670,2978,Tissue
+Chin_FinClp_783_19_22,4848,3825,Tissue
+Chin_FinClp_784_19_24,5451,4544,Tissue
+Chin_FinClp_786_19_26,4610,3568,Tissue
+Chin_FinClp_787_19_28,7489,5972,Tissue
+Chin_FinClp_788_19_30,5179,3967,Tissue
+Chin_FinClp_790_19_32,7850,6331,Tissue
+Chin_FinClp_791_19_34,5651,4859,Tissue
+Chin_FinClp_792_19_36,6277,4132,Tissue
+Chin_FinClp_793_19_38,7909,6265,Tissue
+Chin_FinClp_794_19_40,7978,6855,Tissue
+Chin_FinClp_795_20_2,3930,3654,Tissue
+Chin_FinClp_796_20_4,8737,7525,Tissue
+Chin_FinClp_797_20_6,7879,6640,Tissue
+Chin_FinClp_798_20_8,7300,6174,Tissue
+Chin_FinClp_799_20_10,8171,6710,Tissue
+Chin_FinClp_800_20_12,4822,3462,Tissue
+Chin_FinClp_801_20_14,7000,5757,Tissue
+Chin_FinClp_802_20_16,4200,3395,Tissue
+Chin_FinClp_803_20_18,5996,4924,Tissue
+Chin_FinClp_804_20_20,6574,5549,Tissue
+Chin_FinClp_805_20_22,6160,4973,Tissue
+Chin_FinClp_807_20_24,8375,7243,Tissue
+Chin_FinClp_808_20_26,6996,5598,Tissue
+Chin_FinClp_810_20_30,5427,3599,Tissue
+Chin_FinClp_811_20_32,8383,6714,Tissue
+Chin_FinClp_812_20_34,6746,5871,Tissue
+Chin_FinClp_813_20_36,6382,5625,Tissue
+Chin_FinClp_814_20_38,7870,6551,Tissue
+Chin_FinClp_815_20_40,6787,5380,Tissue
+Chin_FinClp_817_21_2,5715,4795,Tissue
+Chin_FinClp_818_21_4,5343,3671,Tissue
+Chin_FinClp_819_21_6,1106,727,Tissue
+Chin_FinClp_820_21_8,4510,3158,Tissue
+Chin_FinClp_821_21_10,3955,2925,Tissue
+Chin_FinClp_822_21_12,2362,1491,Tissue
+Chin_FinClp_823_21_14,1065,633,Tissue
+Chin_FinClp_824_21_16,601,195,Tissue
+Chin_FinClp_825_21_18,7433,5879,Tissue
+Chin_FinClp_826_21_20,7461,5509,Tissue
+Chin_FinClp_827_21_22,4517,3711,Tissue
+Chin_FinClp_828_21_24,8329,6519,Tissue
+Chin_FinClp_830_21_26,6844,5357,Tissue
+Chin_FinClp_831_21_28,3049,2293,Tissue
+Chin_FinClp_832_21_30,8012,5815,Tissue
+Chin_FinClp_833_21_32,4368,2590,Tissue
+Chin_FinClp_834_21_34,2626,1634,Tissue
+Chin_FinClp_835_21_36,6139,4568,Tissue
+Chin_FinClp_836_21_38,11291,9273,Tissue
+Chin_FinClp_837_21_40,7157,5854,Tissue
+Chin_FinClp_838_22_2,9378,7257,Tissue
+Chin_FinClp_839_22_4,6911,6050,Tissue
+Chin_FinClp_840_22_6,11531,9297,Tissue
+Chin_FinClp_842_22_8,4039,3022,Tissue
+Chin_FinClp_843_22_10,2767,2058,Tissue
+Chin_FinClp_844_22_12,4076,3025,Tissue
+Chin_FinClp_845_22_14,6233,5243,Tissue
+Chin_FinClp_846_22_16,4837,3926,Tissue
+Chin_FinClp_847_22_18,6121,4746,Tissue
+Chin_FinClp_848_22_20,8427,6755,Tissue
+Chin_FinClp_849_22_22,8714,6780,Tissue
+Chin_FinClp_850_22_24,8132,5534,Tissue
+Chin_FinClp_851_22_26,4066,3583,Tissue
+Chin_FinClp_852_22_28,3099,2801,Tissue
+Chin_FinClp_853_22_30,5493,5081,Tissue
+Chin_FinClp_854_22_32,7600,6977,Tissue
+Chin_FinClp_855_22_34,7388,6366,Tissue
+Chin_FinClp_856_22_36,4733,4065,Tissue
+Chin_FinClp_857_22_38,4219,3672,Tissue
+Chin_FinClp_858_22_40,7116,4743,Tissue
+Chin_FinClp_859_23_2,5793,4479,Tissue
+Chin_FinClp_859_23_3,5087,4039,Tissue
+Chin_FinClp_859_23_4,6189,4884,Tissue
+Chin_FinClp_860_23_6,7413,5821,Tissue
+Chin_FinClp_860_23_7,6102,4820,Tissue
+Chin_FinClp_860_23_8,5958,4634,Tissue
+Chin_FinClp_861_23_10,8080,6922,Tissue
+Chin_FinClp_861_23_11,6708,5239,Tissue
+Chin_FinClp_861_23_12,4379,3508,Tissue
+Chin_FinClp_862_23_14,6739,5476,Tissue
+Chin_FinClp_862_23_15,11084,8945,Tissue
+Chin_FinClp_862_23_16,4518,3544,Tissue
+Chin_FinClp_863_23_18,7119,6021,Tissue
+Chin_FinClp_863_23_19,7777,6413,Tissue
+Chin_FinClp_863_23_20,6591,5147,Tissue
+Chin_FinClp_864_23_22,4711,3212,Tissue
+Chin_FinClp_864_23_23,4558,3726,Tissue
+Chin_FinClp_864_23_24,6661,5552,Tissue
+Chin_FinClp_865_23_26,4997,3709,Tissue
+Chin_FinClp_865_23_27,6421,5393,Tissue
+Chin_FinClp_865_23_28,6836,5433,Tissue
+Chin_FinClp_866_23_30,7451,5833,Tissue
+Chin_FinClp_866_23_31,7816,6124,Tissue
+Chin_FinClp_866_23_32,5398,4020,Tissue
+Chin_FinClp_867_23_34,5866,4683,Tissue
+Chin_FinClp_867_23_35,5277,4210,Tissue
+Chin_FinClp_867_23_36,4185,3524,Tissue
+Chin_FinClp_868_23_38,8510,7408,Tissue
+Chin_FinClp_868_23_39,10765,8641,Tissue
+Chin_FinClp_868_23_40,7213,5895,Tissue
+Chin_FinClp_870_24_2,5911,4734,Tissue
+Chin_FinClp_870_24_3,7006,4836,Tissue
+Chin_FinClp_870_24_4,6207,5030,Tissue
+Chin_FinClp_871_24_6,8158,7306,Tissue
+Chin_FinClp_871_24_7,6271,5266,Tissue
+Chin_FinClp_871_24_8,5980,4964,Tissue
+Chin_FinClp_872_24_10,5224,4442,Tissue
+Chin_FinClp_872_24_11,5718,4560,Tissue
+Chin_FinClp_872_24_12,9057,7333,Tissue
+Chin_FinClp_875_24_14,6660,5237,Tissue
+Chin_FinClp_875_24_15,9075,7820,Tissue
+Chin_FinClp_875_24_16,7377,5933,Tissue
+Chin_FinClp_876_24_18,6604,5665,Tissue
+Chin_FinClp_876_24_19,6523,5665,Tissue
+Chin_FinClp_876_24_20,7995,6593,Tissue
+Chin_FinClp_879_24_22,6990,5949,Tissue
+Chin_FinClp_879_24_23,8268,6937,Tissue
+Chin_FinClp_879_24_24,6462,4460,Tissue
+Chin_FinClp_880_24_26,8045,6977,Tissue
+Chin_FinClp_880_24_27,4319,3627,Tissue
+Chin_FinClp_880_24_28,6429,5477,Tissue
+Chin_FinClp_881_24_30,3934,3091,Tissue
+Chin_FinClp_881_24_31,6153,4796,Tissue
+Chin_FinClp_881_24_32,7528,6800,Tissue
+Chin_FinClp_882_24_34,7258,6048,Tissue
+Chin_FinClp_882_24_35,5645,4534,Tissue
+Chin_FinClp_882_24_36,3260,2590,Tissue
+Chin_FinClp_883_24_38,5362,4055,Tissue
+Chin_FinClp_883_24_39,4296,3364,Tissue
+Chin_FinClp_883_24_40,3376,2142,Tissue
+Chin_FinClp_884_25_2_NoTissue,150,101,Tissue
+Chin_FinClp_884_25_3_NoTissue,69,4,Tissue
+Chin_FinClp_884_25_4_NoTissue,40,8,Tissue
+Chin_FinClp_885_25_6,2564,1442,Tissue
+Chin_FinClp_885_25_7,4780,3619,Tissue
+Chin_FinClp_885_25_8,3813,2981,Tissue
+Chin_FinClp_886_25_10,571,134,Tissue
+Chin_FinClp_886_25_11,4312,3265,Tissue
+Chin_FinClp_886_25_12,4473,2998,Tissue
+Chin_FinClp_887_25_14,5210,3999,Tissue
+Chin_FinClp_887_25_15,5395,3396,Tissue
+Chin_FinClp_887_25_16,4048,2987,Tissue
+Chin_FinClp_888_25_18,6709,5215,Tissue
+Chin_FinClp_888_25_19,6137,5296,Tissue
+Chin_FinClp_888_25_20,4683,3783,Tissue
+Chin_FinClp_889_25_22,4816,4280,Tissue
+Chin_FinClp_889_25_23,7084,6129,Tissue
+Chin_FinClp_889_25_24,9352,7367,Tissue
+Chin_FinClp_890_25_26,4144,2727,Tissue
+Chin_FinClp_890_25_27,6939,5088,Tissue
+Chin_FinClp_890_25_28,7466,6161,Tissue
+Chin_FinClp_891_25_30,5309,4030,Tissue
+Chin_FinClp_891_25_31,8192,6746,Tissue
+Chin_FinClp_891_25_32,5657,4203,Tissue
+Chin_FinClp_892_25_34,6438,4903,Tissue
+Chin_FinClp_892_25_35,9316,7029,Tissue
+Chin_FinClp_892_25_36,9927,6788,Tissue
+Chin_FinClp_894_25_38,4906,3636,Tissue
+Chin_FinClp_894_25_39,5015,4277,Tissue
+Chin_FinClp_894_25_40,5462,4486,Tissue
+Chin_FinClp_895_26_2,4347,3145,Tissue
+Chin_FinClp_895_26_3,5950,4990,Tissue
+Chin_FinClp_895_26_4,5896,4663,Tissue
+Chin_FinClp_897_26_6,9755,7853,Tissue
+Chin_FinClp_897_26_7,5024,3486,Tissue
+Chin_FinClp_897_26_8,3866,2610,Tissue
+Chin_FinClp_898_26_10,4320,3097,Tissue
+Chin_FinClp_898_26_11,5530,3933,Tissue
+Chin_FinClp_898_26_12,4000,2988,Tissue
+Chin_FinClp_900_26_14,8490,6805,Tissue
+Chin_FinClp_900_26_15,4689,3546,Tissue
+Chin_FinClp_900_26_16,5496,4460,Tissue
+Chin_FinClp_901_26_18,3920,1900,Tissue
+Chin_FinClp_901_26_19,6272,4571,Tissue
+Chin_FinClp_901_26_20,9683,8199,Tissue
+Chin_FinClp_902_26_22,6059,4673,Tissue
+Chin_FinClp_902_26_23,5269,4042,Tissue
+Chin_FinClp_902_26_24,13149,11420,Tissue
+Chin_FinClp_903_26_26,8021,4820,Tissue
+Chin_FinClp_903_26_27,7127,5485,Tissue
+Chin_FinClp_903_26_28,6661,4876,Tissue
+Chin_FinClp_904_26_30,7152,6093,Tissue
+Chin_FinClp_904_26_31,7601,6073,Tissue
+Chin_FinClp_904_26_32,7064,5510,Tissue
+Chin_FinClp_905_26_34,7207,6098,Tissue
+Chin_FinClp_905_26_35,5727,4466,Tissue
+Chin_FinClp_905_26_36,3953,3308,Tissue
+Chin_FinClp_906_26_38,5900,4754,Tissue
+Chin_FinClp_906_26_39,7209,5655,Tissue
+Chin_FinClp_906_26_40,8212,6792,Tissue
+Chin_FinClp_908_27_2,11637,10033,Tissue
+Chin_FinClp_908_27_3,8556,7338,Tissue
+Chin_FinClp_908_27_4,5869,5347,Tissue
+Chin_FinClp_909_27_6,8575,7838,Tissue
+Chin_FinClp_909_27_7,2938,2465,Tissue
+Chin_FinClp_909_27_8,10464,9383,Tissue
+Chin_FinClp_910_27_10,8675,6994,Tissue
+Chin_FinClp_910_27_11,6372,5161,Tissue
+Chin_FinClp_910_27_12,9683,8402,Tissue
+Chin_FinClp_911_27_14,7308,6008,Tissue
+Chin_FinClp_911_27_15,7083,5968,Tissue
+Chin_FinClp_911_27_16,6655,5737,Tissue
+Chin_FinClp_912_27_18,9590,8503,Tissue
+Chin_FinClp_912_27_19,4956,4164,Tissue
+Chin_FinClp_912_27_20,6107,4507,Tissue
+Chin_FinClp_913_27_22,4936,4008,Tissue
+Chin_FinClp_913_27_23,7024,6218,Tissue
+Chin_FinClp_913_27_24,6026,4953,Tissue
+Chin_FinClp_915_27_26,9681,8395,Tissue
+Chin_FinClp_915_27_27,7696,6585,Tissue
+Chin_FinClp_915_27_28,8820,7244,Tissue
+Chin_FinClp_917_27_30,1146,460,Tissue
+Chin_FinClp_917_27_31,73,16,Tissue
+Chin_FinClp_917_27_32,4998,4125,Tissue
+Chin_FinClp_918_27_34,6681,5508,Tissue
+Chin_FinClp_918_27_35,8283,7343,Tissue
+Chin_FinClp_918_27_36,7014,5875,Tissue
+Chin_FinClp_919_27_38,10189,8596,Tissue
+Chin_FinClp_919_27_39,6948,5653,Tissue
+Chin_FinClp_919_27_40,5453,4403,Tissue
+Chin_FinClp_920_28_2,3853,2562,Tissue
+Chin_FinClp_920_28_3,1099,446,Tissue
+Chin_FinClp_920_28_4,2426,1087,Tissue
+Chin_FinClp_922_28_6,3197,2022,Tissue
+Chin_FinClp_922_28_7,2376,1558,Tissue
+Chin_FinClp_922_28_8,6903,4518,Tissue
+Chin_FinClp_923_28_10,5270,2889,Tissue
+Chin_FinClp_923_28_11,3968,2596,Tissue
+Chin_FinClp_923_28_12,1654,795,Tissue
+Chin_FinClp_924_28_14,3524,2860,Tissue
+Chin_FinClp_924_28_15,2853,2141,Tissue
+Chin_FinClp_924_28_16_NoTissue,514,267,Tissue
+Chin_FinClp_925_28_18,6311,5321,Tissue
+Chin_FinClp_925_28_19,1520,1130,Tissue
+Chin_FinClp_925_28_20,5058,4147,Tissue
+Chin_FinClp_926_28_22,4476,3456,Tissue
+Chin_FinClp_926_28_23,4214,2514,Tissue
+Chin_FinClp_926_28_24,4744,3955,Tissue
+Chin_FinClp_927_28_26,5042,4363,Tissue
+Chin_FinClp_927_28_27,5368,4346,Tissue
+Chin_FinClp_927_28_28,6921,6032,Tissue
+Chin_FinClp_928_28_30,8551,7491,Tissue
+Chin_FinClp_928_28_31,4403,3391,Tissue
+Chin_FinClp_928_28_32,4413,3636,Tissue
+Chin_FinClp_929_28_34,3001,2214,Tissue
+Chin_FinClp_929_28_35,4644,3649,Tissue
+Chin_FinClp_929_28_36,4092,3068,Tissue
+Chin_FinClp_930_28_38,4142,3493,Tissue
+Chin_FinClp_930_28_39,3175,2285,Tissue
+Chin_FinClp_930_28_40,5231,4120,Tissue
+Chin_FinClp_931_29_2,6161,5024,Tissue
+Chin_FinClp_931_29_3,4292,3115,Tissue
+Chin_FinClp_931_29_4,5140,3960,Tissue
+Chin_FinClp_932_29_6,5977,5188,Tissue
+Chin_FinClp_932_29_7,5565,4666,Tissue
+Chin_FinClp_932_29_8,5107,4343,Tissue
+Chin_FinClp_933_29_10,941,44,Tissue
+Chin_FinClp_933_29_11,6261,5335,Tissue
+Chin_FinClp_933_29_12,4485,3668,Tissue
+Chin_FinClp_934_29_14,4100,3433,Tissue
+Chin_FinClp_934_29_15,5565,4266,Tissue
+Chin_FinClp_934_29_16,7042,6247,Tissue
+Chin_FinClp_935_29_18,8210,7225,Tissue
+Chin_FinClp_935_29_19,5292,4567,Tissue
+Chin_FinClp_935_29_20,7782,6940,Tissue
+Chin_FinClp_936_29_22,8559,7858,Tissue
+Chin_FinClp_936_29_23,5696,4475,Tissue
+Chin_FinClp_936_29_24,6900,5662,Tissue
+Chin_FinClp_937_29_26,6686,5432,Tissue
+Chin_FinClp_937_29_27,7087,5949,Tissue
+Chin_FinClp_937_29_28,8145,7211,Tissue
+Chin_FinClp_938_29_30,7615,6540,Tissue
+Chin_FinClp_938_29_31,8588,7291,Tissue
+Chin_FinClp_938_29_32,8340,6739,Tissue
+Chin_FinClp_939_29_34,8542,7373,Tissue
+Chin_FinClp_939_29_35,8980,7681,Tissue
+Chin_FinClp_939_29_36,6159,5059,Tissue
+Chin_FinClp_940_29_38,6358,5568,Tissue
+Chin_FinClp_940_29_39,2873,2034,Tissue
+Chin_FinClp_940_29_40,4067,3315,Tissue
+Chin_FinClp_941_30_2,8164,7078,Tissue
+Chin_FinClp_941_30_3,9545,8051,Tissue
+Chin_FinClp_941_30_4,7019,6067,Tissue
+Chin_FinClp_942_30_6,9400,7628,Tissue
+Chin_FinClp_942_30_7,3174,2402,Tissue
+Chin_FinClp_942_30_8,5805,4832,Tissue
+Chin_FinClp_943_30_10,6906,6113,Tissue
+Chin_FinClp_943_30_11,3413,2879,Tissue
+Chin_FinClp_943_30_12,8770,7744,Tissue
+Chin_FinClp_944_30_14,6369,5259,Tissue
+Chin_FinClp_944_30_15,3487,2737,Tissue
+Chin_FinClp_944_30_16,6566,5456,Tissue
+Chin_FinClp_945_30_18,5608,4406,Tissue
+Chin_FinClp_945_30_19,8228,7468,Tissue
+Chin_FinClp_945_30_20,4885,4179,Tissue
+Chin_FinClp_946_30_22,2810,2370,Tissue
+Chin_FinClp_946_30_23,7675,6966,Tissue
+Chin_FinClp_946_30_24,4111,3444,Tissue
+Chin_FinClp_947_30_26,6742,5367,Tissue
+Chin_FinClp_947_30_27,4651,3587,Tissue
+Chin_FinClp_947_30_28,7201,5875,Tissue
+Chin_FinClp_948_30_30,8641,7337,Tissue
+Chin_FinClp_948_30_31,7194,6310,Tissue
+Chin_FinClp_948_30_32,6240,5255,Tissue
+Chin_FinClp_949_30_34,8396,7393,Tissue
+Chin_FinClp_949_30_35,8227,7426,Tissue
+Chin_FinClp_949_30_36,7757,6917,Tissue
+Chin_FinClp_950_30_38,7233,5267,Tissue
+Chin_FinClp_950_30_39,5347,4015,Tissue
+Chin_FinClp_950_30_40,4284,2967,Tissue
+Chin_FinClp_951_31_2,5584,4828,Tissue
+Chin_FinClp_952_31_4,4764,3828,Tissue
+Chin_FinClp_953_31_6,7353,6268,Tissue
+Chin_FinClp_954_31_8,7846,6821,Tissue
+Chin_FinClp_955_31_10,8038,6933,Tissue
+Chin_FinClp_956_31_12,8993,7554,Tissue
+Chin_FinClp_957_31_14,5493,3747,Tissue
+Chin_FinClp_958_31_16,4204,2761,Tissue
+Chin_FinClp_959_31_18,2533,1920,Tissue
+Chin_FinClp_960_31_20,2090,1506,Tissue
+Chin_FinClp_962_31_22,6359,5324,Tissue
+Chin_FinClp_963_31_24,6249,4766,Tissue
+Chin_FinClp_964_31_26,4458,3531,Tissue
+Chin_FinClp_965_31_28,10194,7840,Tissue
+Chin_FinClp_967_31_30,7880,6435,Tissue
+Chin_FinClp_968_31_32,5008,4098,Tissue
+Chin_FinClp_969_31_34,7811,6577,Tissue
+Chin_FinClp_970_31_36,7127,6268,Tissue
+Chin_FinClp_971_31_38,3685,2683,Tissue
+Chin_FinClp_972_31_40,9356,8018,Tissue
+Chin_FinClp_973_32_2,3889,2988,Tissue
+Chin_FinClp_974_32_4,5047,3410,Tissue
+Chin_FinClp_975_32_6,308,221,Tissue
+Chin_FinClp_977_32_8,8007,6971,Tissue
+Chin_FinClp_978_32_10,10622,9234,Tissue
+Chin_FinClp_979_32_12,9765,7968,Tissue
+Chin_FinClp_980_32_14,8965,7357,Tissue
+Chin_FinClp_981_32_16,8205,6767,Tissue
+Chin_FinClp_982_32_18,5499,4349,Tissue
+Chin_FinClp_983_32_20,6158,4487,Tissue
+Chin_FinClp_984_32_22,5440,4378,Tissue
+Chin_FinClp_985_32_24,7989,6402,Tissue
+Chin_FinClp_986_32_26,5599,4721,Tissue
+Chin_FinClp_987_32_28,10287,8630,Tissue
+Chin_FinClp_988_32_30,4554,3580,Tissue
+Chin_FinClp_991_32_32,11746,10070,Tissue
+Chin_FinClp_992_32_34,6832,5593,Tissue
+Chin_FinClp_993_32_36,7470,5602,Tissue
+Chin_FinClp_994_32_38,5866,4566,Tissue
+Chin_FinClp_995_32_40,7495,7015,Tissue
+Chin_FinClp_996_33_2,5670,4884,Tissue
+Chin_FinClp_997_33_4,7327,6409,Tissue
+Chin_FinClp_998_33_6,8605,7543,Tissue
+Chin_FinClp_999_33_8,5478,4536,Tissue
+LMB_FinClp_526_1_1,20739,11544,LMB
+LMB_FinClp_527_1_3,52,5,LMB
+LMB_FinClp_528_1_5,26,11,LMB
+LMB_FinClp_529_1_7,90,9,LMB
+LMB_FinClp_530_1_9,745,4,LMB
+LMB_FinClp_531_1_11,1285,123,LMB
+LMB_FinClp_532_1_13,1256,30,LMB
+LMB_FinClp_533_1_15,259,26,LMB
+LMB_FinClp_534_1_17,641,76,LMB
+LMB_FinClp_535_1_19,1235,319,LMB
+LMB_FinClp_536_1_21,372,8,LMB
+LMB_FinClp_537_1_23,858,35,LMB
+LMB_FinClp_538_1_25,480,2,LMB
+LMB_FinClp_539_1_27,668,15,LMB
+LMB_FinClp_540_1_29,482,1,LMB
+LMB_FinClp_541_1_31,443,12,LMB
+LMB_FinClp_542_1_33,550,23,LMB
+LMB_FinClp_543_1_35,107,1,LMB
+LMB_FinClp_544_1_37,378,6,LMB
+LMB_FinClp_551_1_39,207,6,LMB
+LMB_FinClp_552_2_1,1266,4,LMB
+LMB_FinClp_553_2_3,912,19,LMB
+LMB_FinClp_554_2_5,2484,20,LMB
+LMB_FinClp_555_2_7,68,0,LMB
+LMB_FinClp_556_2_9,1725,3,LMB
+LMB_FinClp_557_2_11,1353,14,LMB
+LMB_FinClp_558_2_13,1379,37,LMB
+LMB_FinClp_559_2_15,1526,28,LMB
+LMB_FinClp_560_2_17,296,3,LMB
+LMB_FinClp_561_2_19,5159,2721,LMB
+LMB_FinClp_562_2_21,2184,118,LMB
+LMB_FinClp_563_2_23,1385,26,LMB
+LMB_FinClp_564_2_25,787,13,LMB
+LMB_FinClp_565_2_27,1329,111,LMB
+LMB_FinClp_566_2_29,421,12,LMB
+LMB_FinClp_567_2_31,252,2,LMB
+LMB_FinClp_568_2_33,110,4,LMB
+LMB_FinClp_569_2_35,440,19,LMB
+LMB_FinClp_570_2_37,2098,45,LMB
+LMB_FinClp_571_2_39,950,34,LMB
+LMB_FinClp_572_3_1,834,5,LMB
+LMB_FinClp_573_3_3,643,22,LMB
+LMB_FinClp_574_3_5,464,12,LMB
+LMB_FinClp_575_3_7,540,7,LMB
+LMB_FinClp_576_3_9,859,7,LMB
+LMB_FinClp_577_3_11,584,3,LMB
+LMB_FinClp_578_3_13,776,4,LMB
+LMB_FinClp_579_3_15,1908,830,LMB
+LMB_FinClp_580_3_17,1073,1,LMB
+LMB_FinClp_581_3_19,666,7,LMB
+LMB_FinClp_582_3_21,101,0,LMB
+LMB_FinClp_583_3_23,280,4,LMB
+LMB_FinClp_584_3_25,487,12,LMB
+LMB_FinClp_585_3_27,401,6,LMB
+LMB_FinClp_586_3_29,383,0,LMB
+LMB_FinClp_587_3_31,216,20,LMB
+LMB_FinClp_588_3_33,754,3,LMB
+LMB_FinClp_589_3_35,276,1,LMB
+LMB_FinClp_590_3_37,43,0,LMB
+LMB_FinClp_591_3_39,169,4,LMB
+LMB_FinClp_592_4_1,961,17,LMB
+LMB_FinClp_594_4_3,1105,40,LMB
+LMB_FinClp_595_4_5,1936,53,LMB
+LMB_FinClp_596_4_7,973,5,LMB
+LMB_FinClp_597_4_9,1217,6,LMB
+LMB_FinClp_598_4_11,657,4,LMB
+LMB_FinClp_599_4_13,824,45,LMB
+LMB_FinClp_600_4_15,330,4,LMB
+LMB_FinClp_601_4_17,265,1,LMB
+LMB_FinClp_602_4_19,523,6,LMB
+LMB_FinClp_603_4_21,163,3,LMB
+LMB_FinClp_604_4_23,637,3,LMB
+LMB_FinClp_605_4_25,850,4,LMB
+LMB_FinClp_606_4_27,520,4,LMB
+LMB_FinClp_607_4_29,678,22,LMB
+LMB_FinClp_608_4_31,825,8,LMB
+LMB_FinClp_609_4_33,769,1,LMB
+LMB_FinClp_610_4_35,1199,36,LMB
+LMB_FinClp_611_4_37,133,7,LMB
+LMB_FinClp_612_4_39,144,3,LMB
+LMB_FinClp_613_5_1,980,4,LMB
+LMB_FinClp_614_5_3,1642,6,LMB
+LMB_FinClp_615_5_5,1724,63,LMB
+LMB_FinClp_616_5_7,363,3,LMB
+LMB_FinClp_617_5_9,879,12,LMB
+LMB_FinClp_618_5_11,1191,19,LMB
+LMB_FinClp_619_5_13,1851,51,LMB
+LMB_FinClp_620_5_15,1938,73,LMB
+LMB_FinClp_621_5_17,842,7,LMB
+LMB_FinClp_622_5_19,425,2,LMB
+LMB_FinClp_623_5_21,954,21,LMB
+LMB_FinClp_624_5_23,568,15,LMB
+LMB_FinClp_625_5_25,869,36,LMB
+LMB_FinClp_626_5_27,959,41,LMB
+LMB_FinClp_628_5_29,1966,868,LMB
+LMB_FinClp_629_5_31,577,23,LMB
+LMB_FinClp_630_5_33,1855,106,LMB
+LMB_FinClp_631_5_35,1198,17,LMB
+LMB_FinClp_632_5_37,553,6,LMB
+LMB_FinClp_635_5_39,432,14,LMB
+LMB_FinClp_636_6_1,1275,7,LMB
+LMB_FinClp_640_7_1,3200,16,LMB
+LMB_FinClp_641_7_5,1543,12,LMB
+LMB_FinClp_642_7_9,1182,45,LMB
+LMB_FinClp_643_7_13,1650,9,LMB
+LMB_FinClp_644_7_17,1613,23,LMB
+LMB_FinClp_645_7_21,1610,27,LMB
+LMB_FinClp_646_7_25,1479,14,LMB
+LMB_FinClp_647_7_29,1427,32,LMB
+LMB_FinClp_649_7_33,1487,3,LMB
+LMB_FinClp_650_7_37,1355,88,LMB
+LMB_FinClp_651_10_13,3168,30,LMB
+LMB_FinClp_652_10_9,1684,8,LMB
+LMB_FinClp_653_10_5,1337,6,LMB
+LMB_FinClp_654_10_1,2176,13,LMB
+LMB_FinClp_655_9_37,738,63,LMB
+LMB_FinClp_656_9_33,1498,7,LMB
+LMB_FinClp_657_9_29,1981,150,LMB
+LMB_FinClp_658_9_25,1028,44,LMB
+LMB_FinClp_659_9_21,1784,135,LMB
+LMB_FinClp_660_9_17,2007,30,LMB
+LMB_FinClp_661_9_13,1535,9,LMB
+LMB_FinClp_662_9_9,1420,14,LMB
+LMB_FinClp_663_9_5,1564,53,LMB
+LMB_FinClp_665_9_1,940,5,LMB
+LMB_FinClp_666_8_37,1785,45,LMB
+LMB_FinClp_667_8_33,1335,103,LMB
+LMB_FinClp_668_8_29,1111,82,LMB
+LMB_FinClp_669_8_25,1223,20,LMB
+LMB_FinClp_670_8_21,1053,11,LMB
+LMB_FinClp_671_8_17,1361,14,LMB
+LMB_FinClp_672_8_13,502,28,LMB
+LMB_FinClp_673_8_9,1803,15,LMB
+LMB_FinClp_674_8_5,2020,163,LMB
+LMB_FinClp_675_8_1,1354,112,LMB
+LMB_FinClp_676_10_17,1439,30,LMB
+LMB_FinClp_677_10_21,937,69,LMB
+LMB_FinClp_678_10_25,1314,35,LMB
+LMB_FinClp_679_10_29,282,10,LMB
+LMB_FinClp_680_10_33,1164,1,LMB
+LMB_FinClp_681_10_37,768,30,LMB
+LMB_FinClp_682_11_1,1550,18,LMB
+LMB_FinClp_683_11_5,1634,54,LMB
+LMB_FinClp_684_11_9,1428,181,LMB
+LMB_FinClp_685_11_13,611,49,LMB
+LMB_FinClp_686_11_17,936,75,LMB
+LMB_FinClp_687_11_21,1130,28,LMB
+LMB_FinClp_688_11_25,1633,16,LMB
+LMB_FinClp_689_11_29,649,28,LMB
+LMB_FinClp_690_11_33,1821,15,LMB
+LMB_FinClp_691_11_37,1670,67,LMB
+LMB_FinClp_692_12_1,1503,8,LMB
+LMB_FinClp_693_12_5,1314,14,LMB
+LMB_FinClp_694_12_9,1086,8,LMB
+LMB_FinClp_695_12_13,922,59,LMB
+LMB_FinClp_696_12_17,784,4,LMB
+LMB_FinClp_697_12_21,1013,83,LMB
+LMB_FinClp_698_12_25,1449,59,LMB
+LMB_FinClp_699_12_29,2381,435,LMB
+LMB_FinClp_700_12_33,2807,185,LMB
+LMB_FinClp_701_12_37,767,14,LMB
+LMB_FinClp_702_13_1,2043,47,LMB
+LMB_FinClp_703_13_5,1597,62,LMB
+LMB_FinClp_704_13_9,1734,54,LMB
+LMB_FinClp_705_13_13,1297,26,LMB
+LMB_FinClp_706_13_17,2469,219,LMB
+LMB_FinClp_707_13_21,2550,59,LMB
+LMB_FinClp_708_13_25,1283,106,LMB
+LMB_FinClp_709_13_29,2622,1166,LMB
+LMB_FinClp_710_13_33,1268,95,LMB
+LMB_FinClp_711_13_37,204,3,LMB
+LMB_FinClp_712_14_1,1591,8,LMB
+LMB_FinClp_713_14_5,1548,21,LMB
+LMB_FinClp_714_14_9,1630,36,LMB
+LMB_FinClp_715_14_13,4232,167,LMB
+LMB_FinClp_716_14_17,1459,55,LMB
+LMB_FinClp_717_14_21,1122,14,LMB
+LMB_FinClp_718_14_25,1347,13,LMB
+LMB_FinClp_719_14_29,1159,3,LMB
+LMB_FinClp_720_14_33,974,18,LMB
+LMB_FinClp_721_14_37,1962,39,LMB
+LMB_FinClp_722_15_1,2341,24,LMB
+LMB_FinClp_723_15_5,1589,33,LMB
+LMB_FinClp_724_15_9,1951,201,LMB
+LMB_FinClp_725_15_13,1202,57,LMB
+LMB_FinClp_726_15_17,1363,83,LMB
+LMB_FinClp_727_15_21,625,25,LMB
+LMB_FinClp_728_15_25,1465,184,LMB
+LMB_FinClp_729_15_29,1435,224,LMB
+LMB_FinClp_730_15_33,2355,112,LMB
+LMB_Stool_Chin_640,29735,3555,GI tract content
+LMB_Stool_Chin_641,16487,10,GI tract content
+LMB_Stool_Chin_642,37743,10,GI tract content
+LMB_Stool_Chin_643,22046,362,GI tract content
+LMB_Stool_Chin_644,19071,3349,GI tract content
+LMB_Stool_Chin_645,26225,13741,GI tract content
+LMB_Stool_Chin_646,3695,1651,GI tract content
+LMB_Stool_Chin_647,23689,3121,GI tract content
+LMB_Stool_Chin_649,16455,7436,GI tract content
+LMB_Stool_Chin_650,14599,4796,GI tract content
+LMB_Stool_Chin_651,31312,974,GI tract content
+LMB_Stool_Chin_652,26309,9485,GI tract content
+LMB_Stool_Chin_653,14648,6095,GI tract content
+LMB_Stool_Chin_654,2020,367,GI tract content
+LMB_Stool_Chin_655,367,158,GI tract content
+LMB_Stool_Chin_656,342,79,GI tract content
+LMB_Stool_Chin_657,1178,571,GI tract content
+LMB_Stool_Chin_658,17169,8569,GI tract content
+LMB_Stool_Chin_659,2413,1499,GI tract content
+LMB_Stool_Chin_660,12697,8033,GI tract content
+LMB_Stool_Chin_661,7990,4959,GI tract content
+LMB_Stool_Chin_662,434,188,GI tract content
+LMB_Stool_Chin_663,1966,1050,GI tract content
+LMB_Stool_Chin_665,8950,4736,GI tract content
+LMB_Stool_Chin_666,15745,7534,GI tract content
+LMB_Stool_Chin_667,23226,13569,GI tract content
+LMB_Stool_Chin_668,21847,10459,GI tract content
+LMB_Stool_Chin_669,22405,10853,GI tract content
+LMB_Stool_Chin_670,1509,986,GI tract content
+LMB_Stool_Chin_671,4,1,GI tract content
+LMB_Stool_Chin_672,152,36,GI tract content
+LMB_Stool_Chin_673,4169,2324,GI tract content
+LMB_Stool_Chin_674,18107,11411,GI tract content
+LMB_Stool_Chin_675,28387,16955,GI tract content
+LMB_Stool_Chin_676,12766,4197,GI tract content
+LMB_Stool_Chin_677,21954,1631,GI tract content
+LMB_Stool_Chin_678,5566,2563,GI tract content
+LMB_Stool_Chin_679,4502,147,GI tract content
+LMB_Stool_Chin_681,3434,1532,GI tract content
+LMB_Stool_Chin_682,28457,53,GI tract content
+LMB_Stool_Chin_683,23976,21,GI tract content
+LMB_Stool_Chin_684,7871,42,GI tract content
+LMB_Stool_Chin_685,21982,164,GI tract content
+LMB_Stool_Chin_686,18846,25,GI tract content
+LMB_Stool_Chin_687,21732,13,GI tract content
+LMB_Stool_Chin_688,20145,20,GI tract content
+LMB_Stool_Chin_689,22559,35,GI tract content
+LMB_Stool_Chin_690,18234,4,GI tract content
+LMB_Stool_Chin_691,9501,64,GI tract content
+LMB_Stool_Chin_692,38800,20,GI tract content
+LMB_Stool_Chin_693,19069,80,GI tract content
+LMB_Stool_Chin_694,7717,89,GI tract content
+LMB_Stool_Chin_695,18400,1394,GI tract content
+LMB_Stool_Chin_696,11430,23,GI tract content
+LMB_Stool_Chin_697,1067,288,GI tract content
+LMB_Stool_Chin_698,4390,971,GI tract content
+LMB_Stool_Chin_699,22260,4028,GI tract content
+LMB_Stool_Chin_700,9659,3068,GI tract content
+LMB_Stool_Chin_701,6309,3089,GI tract content
+LMB_Stool_Chin_702,5937,32,GI tract content
+LMB_Stool_Chin_703,10800,42,GI tract content
+LMB_Stool_Chin_704,14497,320,GI tract content
+LMB_Stool_Chin_705,25008,16,GI tract content
+LMB_Stool_Chin_706,6822,49,GI tract content
+LMB_Stool_Chin_707,6072,28,GI tract content
+LMB_Stool_Chin_708,22306,10,GI tract content
+LMB_Stool_Chin_709,12118,80,GI tract content
+LMB_Stool_Chin_710,4560,1296,GI tract content
+LMB_Stool_Chin_711,18653,41,GI tract content
+LMB_Stool_Chin_712,9376,29,GI tract content
+LMB_Stool_Chin_713,7241,427,GI tract content
+LMB_Stool_Chin_714,20222,18,GI tract content
+LMB_Stool_Chin_715,20904,7,GI tract content
+LMB_Stool_Chin_716,10310,19,GI tract content
+LMB_Stool_Chin_717,5002,33,GI tract content
+LMB_Stool_Chin_718,9543,2231,GI tract content
+LMB_Stool_Chin_719,14888,21,GI tract content
+LMB_Stool_Chin_720,7123,1931,GI tract content
+LMB_Stool_Chin_721,19354,14,GI tract content
+LMB_Stool_Chin_722,13754,5753,GI tract content
+LMB_Stool_Chin_723,2180,1165,GI tract content
+LMB_Stool_Chin_724,1852,616,GI tract content
+LMB_Stool_Chin_725,3381,1742,GI tract content
+LMB_Stool_Chin_726,4915,2146,GI tract content
+LMB_Stool_Chin_727,143,67,GI tract content
+LMB_Stool_Chin_728,2616,772,GI tract content
+LMB_Stool_Chin_729,9064,4916,GI tract content
+LMB_Stool_Chin_730,7200,1501,GI tract content
+LMB_Stool_Chin_731,26674,12358,GI tract content
+LMB_Stool_Chin_732,23976,34,GI tract content
+LMB_Stool_Chin_733,3455,174,GI tract content
+LMB_Stool_Chin_734,13233,276,GI tract content
+LMB_Stool_Chin_735,19994,104,GI tract content
+LMB_Stool_Chin_736,15007,19,GI tract content
+LMB_Stool_Chin_737,16270,294,GI tract content
+LMB_Stool_Chin_738,30465,7,GI tract content
+LMB_Stool_Chin_739,3668,62,GI tract content
+LMB_Stool_Chin_740,876,118,GI tract content
+LMB_Stool_Chin_741,1674,31,GI tract content
+LMB_Stool_Chin_742,4368,1440,GI tract content
+LMB_Stool_Chin_859,15200,10898,GI tract content
+LMB_Stool_Chin_860,9493,7315,GI tract content
+LMB_Stool_Chin_861,260,147,GI tract content
+LMB_Stool_Chin_862,142,75,GI tract content
+LMB_Stool_Chin_863,54,13,GI tract content
+LMB_Stool_Chin_864,82,23,GI tract content
+LMB_Stool_Chin_865,18186,10206,GI tract content
+LMB_Stool_Chin_866,261,178,GI tract content
+LMB_Stool_Chin_867,70,16,GI tract content
+LMB_Stool_Chin_868,312,202,GI tract content
+LMB_Stool_Chin_870,78,25,GI tract content
+LMB_Stool_Chin_871,58,13,GI tract content
+LMB_Stool_Chin_872,142,29,GI tract content
+LMB_Stool_Chin_875,83,25,GI tract content
+LMB_Stool_Chin_876,428,253,GI tract content
+LMB_Stool_Chin_879,1207,672,GI tract content
+LMB_Stool_Chin_880,915,133,GI tract content
+LMB_Stool_Chin_881,67,20,GI tract content
+LMB_Stool_Chin_882,214,123,GI tract content
+LMB_Stool_Chin_883,2963,1568,GI tract content
+LMB_Stool_Chin_884,95,33,GI tract content
+LMB_Stool_Chin_885,109,28,GI tract content
+LMB_Stool_Chin_886,14590,53,GI tract content
+LMB_Stool_Chin_887,81,37,GI tract content
+LMB_Stool_Chin_888,2257,172,GI tract content
+LMB_Stool_Chin_889,14080,3573,GI tract content
+LMB_Stool_Chin_890,2147,763,GI tract content
+LMB_Stool_Chin_891,0,0,GI tract content
+LMB_Stool_Chin_894,78,18,GI tract content
+LMB_Stool_Chin_895,10463,3635,GI tract content
+LMB_Stool_Chin_898,463,278,GI tract content
+LMB_Stool_Chin_900,63,11,GI tract content
+LMB_Stool_Chin_901,441,181,GI tract content
+LMB_Stool_Chin_902,66,18,GI tract content
+LMB_Stool_Chin_903,441,242,GI tract content
+LMB_Stool_Chin_904,6400,3699,GI tract content
+LMB_Stool_Chin_905,12015,7217,GI tract content
+LMB_Stool_Chin_906,42163,30396,GI tract content
+LMB_Stool_Chin_908,161,23,GI tract content
+LMB_Stool_Chin_909,183,17,GI tract content
+LMB_Stool_Chin_910,151,47,GI tract content
+LMB_Stool_Chin_911,12000,8,GI tract content
+LMB_Stool_Chin_912,569,19,GI tract content
+LMB_Stool_Chin_913,2314,163,GI tract content
+LMB_Stool_Chin_915,156,27,GI tract content
+LMB_Stool_Chin_917,272,51,GI tract content
+LMB_Stool_Chin_918,6901,142,GI tract content
+LMB_Stool_Chin_919,10605,50,GI tract content
+LMB_Stool_Chin_920,136,22,GI tract content
+LMB_Stool_Chin_922,2327,133,GI tract content
+LMB_Stool_Chin_924,14314,3529,GI tract content
+LMB_Stool_Chin_925,16549,9,GI tract content
+LMB_Stool_Chin_927,6904,105,GI tract content
+LMB_Stool_Chin_928,10930,1443,GI tract content
+LMB_Stool_Chin_929,1941,30,GI tract content
+LMB_Stool_Chin_930,121,28,GI tract content
+LMB_Stool_Chin_932,214,28,GI tract content
+LMB_Stool_Chin_933,10224,23,GI tract content
+LMB_Stool_Chin_935,2972,177,GI tract content
+LMB_Stool_Chin_936,9963,100,GI tract content
+LMB_Stool_Chin_937,7605,42,GI tract content
+LMB_Stool_Chin_938,11727,31,GI tract content
+LMB_Stool_Chin_939,400,22,GI tract content
+LMB_Stool_Chin_940,379,215,GI tract content
+LMB_Stool_Chin_941,413,41,GI tract content
+LMB_Stool_Chin_943,13107,31,GI tract content
+LMB_Stool_Chin_944,14550,23,GI tract content
+LMB_Stool_Chin_945,5761,40,GI tract content
+LMB_Stool_Chin_946,10066,2,GI tract content
+LMB_Stool_Chin_947,5802,22,GI tract content
+LMB_Stool_Chin_948,5017,85,GI tract content
+LMB_Stool_Chin_949,20915,2319,GI tract content
+LMB_Stool_Chin_950,13110,387,GI tract content
+MockMixtureRep1_A01_2inds,9449,6399,Mock DNA mixture
+MockMixtureRep1_A02_3inds,4867,3517,Mock DNA mixture
+MockMixtureRep1_A03_5inds,6706,4776,Mock DNA mixture
+MockMixtureRep1_A04_5inds,8159,5915,Mock DNA mixture
+MockMixtureRep1_A05_7inds,8221,5749,Mock DNA mixture
+MockMixtureRep1_A06_7inds,9118,6963,Mock DNA mixture
+MockMixtureRep1_A07_9inds,10261,7718,Mock DNA mixture
+MockMixtureRep1_A08_9inds,8327,6030,Mock DNA mixture
+MockMixtureRep1_A09_10inds,9128,6756,Mock DNA mixture
+MockMixtureRep1_A10_10inds,6780,4652,Mock DNA mixture
+MockMixtureRep1_A11_15inds,7755,5785,Mock DNA mixture
+MockMixtureRep1_A12_20inds,7478,5809,Mock DNA mixture
+MockMixtureRep1_B01_2inds,11730,8540,Mock DNA mixture
+MockMixtureRep1_B02_3inds,8666,6749,Mock DNA mixture
+MockMixtureRep1_B03_5inds,8810,6875,Mock DNA mixture
+MockMixtureRep1_B04_5inds,9002,7162,Mock DNA mixture
+MockMixtureRep1_B05_7inds,10443,8178,Mock DNA mixture
+MockMixtureRep1_B06_7inds,8600,6565,Mock DNA mixture
+MockMixtureRep1_B07_9inds,9490,7435,Mock DNA mixture
+MockMixtureRep1_B08_9inds,6059,4826,Mock DNA mixture
+MockMixtureRep1_B09_10inds,7704,6093,Mock DNA mixture
+MockMixtureRep1_B10_10inds,7335,5700,Mock DNA mixture
+MockMixtureRep1_B11_15inds,8424,6744,Mock DNA mixture
+MockMixtureRep1_B12_20inds,9684,7278,Mock DNA mixture
+MockMixtureRep1_C01_2inds,9800,7252,Mock DNA mixture
+MockMixtureRep1_C02_3inds,9386,7361,Mock DNA mixture
+MockMixtureRep1_C03_5inds,7963,6166,Mock DNA mixture
+MockMixtureRep1_C04_5inds,7113,5450,Mock DNA mixture
+MockMixtureRep1_C05_7inds,9513,7212,Mock DNA mixture
+MockMixtureRep1_C06_7inds,10150,7830,Mock DNA mixture
+MockMixtureRep1_C07_9inds,7674,6026,Mock DNA mixture
+MockMixtureRep1_C08_9inds,7428,6000,Mock DNA mixture
+MockMixtureRep1_C09_10inds,8799,7012,Mock DNA mixture
+MockMixtureRep1_C10_10inds,7372,5583,Mock DNA mixture
+MockMixtureRep1_C11_15inds,7734,6381,Mock DNA mixture
+MockMixtureRep1_C12_20inds,7738,5920,Mock DNA mixture
+MockMixtureRep1_D01_2inds,10116,7393,Mock DNA mixture
+MockMixtureRep1_D02_3inds,7435,5868,Mock DNA mixture
+MockMixtureRep1_D03_5inds,7495,5785,Mock DNA mixture
+MockMixtureRep1_D04_5inds,7610,5623,Mock DNA mixture
+MockMixtureRep1_D05_7inds,9678,7427,Mock DNA mixture
+MockMixtureRep1_D06_7inds,10108,7702,Mock DNA mixture
+MockMixtureRep1_D07_9inds,8076,6137,Mock DNA mixture
+MockMixtureRep1_D08_9inds,6370,4926,Mock DNA mixture
+MockMixtureRep1_D09_10inds,8025,6345,Mock DNA mixture
+MockMixtureRep1_D10_10inds,7484,5779,Mock DNA mixture
+MockMixtureRep1_D11_15inds,7828,6236,Mock DNA mixture
+MockMixtureRep1_D12_20inds,8411,6369,Mock DNA mixture
+MockMixtureRep1_E01_2inds,10694,7981,Mock DNA mixture
+MockMixtureRep1_E02_3inds,10617,8310,Mock DNA mixture
+MockMixtureRep1_E03_5inds,8844,6675,Mock DNA mixture
+MockMixtureRep1_E04_5inds,10655,8055,Mock DNA mixture
+MockMixtureRep1_E05_7inds,12504,9405,Mock DNA mixture
+MockMixtureRep1_E07_9inds,8052,6168,Mock DNA mixture
+MockMixtureRep1_E08_9inds,8114,6132,Mock DNA mixture
+MockMixtureRep1_E09_10inds,7723,5925,Mock DNA mixture
+MockMixtureRep1_E10_10inds,8003,6103,Mock DNA mixture
+MockMixtureRep1_E11_15inds,9009,7132,Mock DNA mixture
+MockMixtureRep1_E12_20inds,7635,5950,Mock DNA mixture
+MockMixtureRep1_F01_2inds,9657,7019,Mock DNA mixture
+MockMixtureRep1_F02_3inds,7707,6137,Mock DNA mixture
+MockMixtureRep1_F03_5inds,7449,5744,Mock DNA mixture
+MockMixtureRep1_F04_5inds,8612,6796,Mock DNA mixture
+MockMixtureRep1_F05_7inds,9835,7885,Mock DNA mixture
+MockMixtureRep1_F06_7inds,8698,6709,Mock DNA mixture
+MockMixtureRep1_F07_9inds,8143,6398,Mock DNA mixture
+MockMixtureRep1_F08_9inds,8990,6952,Mock DNA mixture
+MockMixtureRep1_F09_10inds,9590,7479,Mock DNA mixture
+MockMixtureRep1_F10_10inds,6438,4963,Mock DNA mixture
+MockMixtureRep1_F11_15inds,7603,6152,Mock DNA mixture
+MockMixtureRep1_F12_20inds,7964,6035,Mock DNA mixture
+MockMixtureRep1_G01_2inds,9325,6871,Mock DNA mixture
+MockMixtureRep1_G02_3inds,8487,6382,Mock DNA mixture
+MockMixtureRep1_G03_5inds,8682,6932,Mock DNA mixture
+MockMixtureRep1_G04_5inds,8804,6378,Mock DNA mixture
+MockMixtureRep1_G05_7inds,9284,7056,Mock DNA mixture
+MockMixtureRep1_G06_7inds,8346,6189,Mock DNA mixture
+MockMixtureRep1_G07_9inds,9078,7169,Mock DNA mixture
+MockMixtureRep1_G08_9inds,9406,7068,Mock DNA mixture
+MockMixtureRep1_G09_10inds,9743,7656,Mock DNA mixture
+MockMixtureRep1_G10_10inds,8265,6218,Mock DNA mixture
+MockMixtureRep1_G11_15inds,9427,7289,Mock DNA mixture
+MockMixtureRep1_G12_20inds,6555,4950,Mock DNA mixture
+MockMixtureRep1_H01_2inds,11466,8229,Mock DNA mixture
+MockMixtureRep1_H02_3inds,7656,6000,Mock DNA mixture
+MockMixtureRep1_H03_5inds,9304,7446,Mock DNA mixture
+MockMixtureRep1_H04_5inds,9305,7245,Mock DNA mixture
+MockMixtureRep1_H05_7inds,8670,6648,Mock DNA mixture
+MockMixtureRep1_H06_7inds,9079,7156,Mock DNA mixture
+MockMixtureRep1_H07_9inds,8924,7046,Mock DNA mixture
+MockMixtureRep1_H08_9inds,10430,8461,Mock DNA mixture
+MockMixtureRep1_H09_10inds,9009,7084,Mock DNA mixture
+MockMixtureRep1_H10_10inds,8740,6735,Mock DNA mixture
+MockMixtureRep1_H11_15inds,11541,9177,Mock DNA mixture
+MockMixtureRep2_A01_2inds,7672,5187,Mock DNA mixture
+MockMixtureRep2_A02_3inds,9010,6248,Mock DNA mixture
+MockMixtureRep2_A03_5inds,8966,5785,Mock DNA mixture
+MockMixtureRep2_A04_5inds,10144,6993,Mock DNA mixture
+MockMixtureRep2_A05_7inds,9681,6367,Mock DNA mixture
+MockMixtureRep2_A06_7inds,7328,5341,Mock DNA mixture
+MockMixtureRep2_A07_9inds,6005,4171,Mock DNA mixture
+MockMixtureRep2_A08_9inds,6709,4744,Mock DNA mixture
+MockMixtureRep2_A09_10inds,9871,6997,Mock DNA mixture
+MockMixtureRep2_A10_10inds,7829,5176,Mock DNA mixture
+MockMixtureRep2_A11_15inds,7051,4980,Mock DNA mixture
+MockMixtureRep2_A12_20inds,8689,6137,Mock DNA mixture
+MockMixtureRep2_B01_2inds,11996,8638,Mock DNA mixture
+MockMixtureRep2_B02_3inds,10226,7836,Mock DNA mixture
+MockMixtureRep2_B03_5inds,10336,7939,Mock DNA mixture
+MockMixtureRep2_B04_5inds,7605,5866,Mock DNA mixture
+MockMixtureRep2_B05_7inds,9568,7211,Mock DNA mixture
+MockMixtureRep2_B06_7inds,9885,7294,Mock DNA mixture
+MockMixtureRep2_B07_9inds,9491,7531,Mock DNA mixture
+MockMixtureRep2_B08_9inds,8487,6386,Mock DNA mixture
+MockMixtureRep2_B09_10inds,8076,6091,Mock DNA mixture
+MockMixtureRep2_B10_10inds,9087,6775,Mock DNA mixture
+MockMixtureRep2_B11_15inds,9407,7123,Mock DNA mixture
+MockMixtureRep2_B12_20inds,8768,6164,Mock DNA mixture
+MockMixtureRep2_C01_2inds,12178,8912,Mock DNA mixture
+MockMixtureRep2_C02_3inds,10215,8063,Mock DNA mixture
+MockMixtureRep2_C03_5inds,9989,7556,Mock DNA mixture
+MockMixtureRep2_C04_5inds,8543,6543,Mock DNA mixture
+MockMixtureRep2_C05_7inds,9670,7331,Mock DNA mixture
+MockMixtureRep2_C06_7inds,9076,6643,Mock DNA mixture
+MockMixtureRep2_C07_9inds,7863,6133,Mock DNA mixture
+MockMixtureRep2_C08_9inds,7069,5382,Mock DNA mixture
+MockMixtureRep2_C09_10inds,8203,6294,Mock DNA mixture
+MockMixtureRep2_C10_10inds,9633,6981,Mock DNA mixture
+MockMixtureRep2_C11_15inds,9726,7641,Mock DNA mixture
+MockMixtureRep2_C12_20inds,7884,5608,Mock DNA mixture
+MockMixtureRep2_D01_2inds,11912,8594,Mock DNA mixture
+MockMixtureRep2_D02_3inds,9238,7188,Mock DNA mixture
+MockMixtureRep2_D03_5inds,6558,4986,Mock DNA mixture
+MockMixtureRep2_D04_5inds,6451,4816,Mock DNA mixture
+MockMixtureRep2_D05_7inds,8953,6891,Mock DNA mixture
+MockMixtureRep2_D06_7inds,8610,6564,Mock DNA mixture
+MockMixtureRep2_D07_9inds,7718,5864,Mock DNA mixture
+MockMixtureRep2_D08_9inds,6791,5235,Mock DNA mixture
+MockMixtureRep2_D09_10inds,9329,7143,Mock DNA mixture
+MockMixtureRep2_D10_10inds,8506,6464,Mock DNA mixture
+MockMixtureRep2_D11_15inds,8590,6670,Mock DNA mixture
+MockMixtureRep2_D12_20inds,7929,5834,Mock DNA mixture
+MockMixtureRep2_E01_2inds,11580,8149,Mock DNA mixture
+MockMixtureRep2_E02_3inds,10788,8360,Mock DNA mixture
+MockMixtureRep2_E03_5inds,8451,6361,Mock DNA mixture
+MockMixtureRep2_E04_5inds,9675,7277,Mock DNA mixture
+MockMixtureRep2_E05_7inds,9836,7263,Mock DNA mixture
+MockMixtureRep2_E06_7inds,1,0,Mock DNA mixture
+MockMixtureRep2_E07_9inds,9358,7183,Mock DNA mixture
+MockMixtureRep2_E08_9inds,9229,6857,Mock DNA mixture
+MockMixtureRep2_E09_10inds,9030,6877,Mock DNA mixture
+MockMixtureRep2_E10_10inds,9375,6993,Mock DNA mixture
+MockMixtureRep2_E11_15inds,8053,6157,Mock DNA mixture
+MockMixtureRep2_E12_20inds,8873,6421,Mock DNA mixture
+MockMixtureRep2_F01_2inds,11838,8351,Mock DNA mixture
+MockMixtureRep2_F02_3inds,10863,8461,Mock DNA mixture
+MockMixtureRep2_F03_5inds,9677,7545,Mock DNA mixture
+MockMixtureRep2_F04_5inds,7517,5832,Mock DNA mixture
+MockMixtureRep2_F05_7inds,10008,7918,Mock DNA mixture
+MockMixtureRep2_F06_7inds,9130,6988,Mock DNA mixture
+MockMixtureRep2_F07_9inds,7909,6101,Mock DNA mixture
+MockMixtureRep2_F08_9inds,7386,5662,Mock DNA mixture
+MockMixtureRep2_F09_10inds,10597,8109,Mock DNA mixture
+MockMixtureRep2_F10_10inds,9748,7463,Mock DNA mixture
+MockMixtureRep2_F11_15inds,7940,6044,Mock DNA mixture
+MockMixtureRep2_F12_20inds,8508,6218,Mock DNA mixture
+MockMixtureRep2_G01_2inds,12345,8498,Mock DNA mixture
+MockMixtureRep2_G02_3inds,10036,7376,Mock DNA mixture
+MockMixtureRep2_G03_5inds,9489,7231,Mock DNA mixture
+MockMixtureRep2_G04_5inds,8049,5471,Mock DNA mixture
+MockMixtureRep2_G05_7inds,10164,7127,Mock DNA mixture
+MockMixtureRep2_G06_7inds,8737,6280,Mock DNA mixture
+MockMixtureRep2_G07_9inds,9877,7491,Mock DNA mixture
+MockMixtureRep2_G08_9inds,8376,5814,Mock DNA mixture
+MockMixtureRep2_G09_10inds,11273,8546,Mock DNA mixture
+MockMixtureRep2_G10_10inds,11412,8343,Mock DNA mixture
+MockMixtureRep2_G11_15inds,11883,8520,Mock DNA mixture
+MockMixtureRep2_G12_20inds,8409,5842,Mock DNA mixture
+MockMixtureRep2_H01_2inds,9382,6186,Mock DNA mixture
+MockMixtureRep2_H02_3inds,8727,6874,Mock DNA mixture
+MockMixtureRep2_H03_5inds,9379,6863,Mock DNA mixture
+MockMixtureRep2_H04_5inds,9505,7199,Mock DNA mixture
+MockMixtureRep2_H05_7inds,9991,7385,Mock DNA mixture
+MockMixtureRep2_H06_7inds,9874,7395,Mock DNA mixture
+MockMixtureRep2_H07_9inds,8113,6156,Mock DNA mixture
+MockMixtureRep2_H08_9inds,8050,6241,Mock DNA mixture
+MockMixtureRep2_H09_10inds,10363,7719,Mock DNA mixture
+MockMixtureRep2_H10_10inds,10607,7961,Mock DNA mixture
+MockMixtureRep2_H11_15inds,6600,5032,Mock DNA mixture
+MockMixtureRep3_A01_2inds,11279,8139,Mock DNA mixture
+MockMixtureRep3_A02_3inds,8651,6460,Mock DNA mixture
+MockMixtureRep3_A03_5inds,8780,6509,Mock DNA mixture
+MockMixtureRep3_A04_5inds,9961,7658,Mock DNA mixture
+MockMixtureRep3_A05_7inds,8240,5946,Mock DNA mixture
+MockMixtureRep3_A06_7inds,10242,8155,Mock DNA mixture
+MockMixtureRep3_A07_9inds,7685,5838,Mock DNA mixture
+MockMixtureRep3_A08_9inds,10712,8092,Mock DNA mixture
+MockMixtureRep3_A09_10inds,7995,6003,Mock DNA mixture
+MockMixtureRep3_A10_10inds,9497,7009,Mock DNA mixture
+MockMixtureRep3_A11_15inds,8226,6221,Mock DNA mixture
+MockMixtureRep3_A12_20inds,7466,5732,Mock DNA mixture
+MockMixtureRep3_B01_2inds,9828,7226,Mock DNA mixture
+MockMixtureRep3_B02_3inds,10658,8425,Mock DNA mixture
+MockMixtureRep3_B03_5inds,9649,7827,Mock DNA mixture
+MockMixtureRep3_B04_5inds,8547,6805,Mock DNA mixture
+MockMixtureRep3_B05_7inds,12126,9516,Mock DNA mixture
+MockMixtureRep3_B06_7inds,8456,6536,Mock DNA mixture
+MockMixtureRep3_B07_9inds,9423,7443,Mock DNA mixture
+MockMixtureRep3_B08_9inds,9802,7677,Mock DNA mixture
+MockMixtureRep3_B09_10inds,9062,7235,Mock DNA mixture
+MockMixtureRep3_B10_10inds,7476,5879,Mock DNA mixture
+MockMixtureRep3_B11_15inds,8777,7003,Mock DNA mixture
+MockMixtureRep3_B12_20inds,8923,6391,Mock DNA mixture
+MockMixtureRep3_C01_2inds,9953,7441,Mock DNA mixture
+MockMixtureRep3_C02_3inds,9671,7743,Mock DNA mixture
+MockMixtureRep3_C03_5inds,7321,5702,Mock DNA mixture
+MockMixtureRep3_C04_5inds,9080,7154,Mock DNA mixture
+MockMixtureRep3_C05_7inds,10641,8370,Mock DNA mixture
+MockMixtureRep3_C06_7inds,10092,7791,Mock DNA mixture
+MockMixtureRep3_C07_9inds,9084,7157,Mock DNA mixture
+MockMixtureRep3_C08_9inds,8998,7222,Mock DNA mixture
+MockMixtureRep3_C09_10inds,10697,8598,Mock DNA mixture
+MockMixtureRep3_C10_10inds,7668,5962,Mock DNA mixture
+MockMixtureRep3_C11_15inds,7997,6352,Mock DNA mixture
+MockMixtureRep3_C12_20inds,8389,6149,Mock DNA mixture
+MockMixtureRep3_D01_2inds,10442,7892,Mock DNA mixture
+MockMixtureRep3_D02_3inds,10088,8096,Mock DNA mixture
+MockMixtureRep3_D03_5inds,7647,5907,Mock DNA mixture
+MockMixtureRep3_D04_5inds,10553,8054,Mock DNA mixture
+MockMixtureRep3_D05_7inds,7737,6047,Mock DNA mixture
+MockMixtureRep3_D06_7inds,8036,6185,Mock DNA mixture
+MockMixtureRep3_D07_9inds,7479,5725,Mock DNA mixture
+MockMixtureRep3_D08_9inds,8746,6743,Mock DNA mixture
+MockMixtureRep3_D09_10inds,9091,7106,Mock DNA mixture
+MockMixtureRep3_D10_10inds,9856,7733,Mock DNA mixture
+MockMixtureRep3_D11_15inds,8375,6531,Mock DNA mixture
+MockMixtureRep3_D12_20inds,9464,7086,Mock DNA mixture
+MockMixtureRep3_E01_2inds,11286,8136,Mock DNA mixture
+MockMixtureRep3_E02_3inds,8879,7198,Mock DNA mixture
+MockMixtureRep3_E03_5inds,9908,7611,Mock DNA mixture
+MockMixtureRep3_E04_5inds,9297,7195,Mock DNA mixture
+MockMixtureRep3_E05_7inds,11994,9210,Mock DNA mixture
+MockMixtureRep3_E07_9inds,9569,7418,Mock DNA mixture
+MockMixtureRep3_E08_9inds,10170,7809,Mock DNA mixture
+MockMixtureRep3_E09_10inds,7924,6171,Mock DNA mixture
+MockMixtureRep3_E10_10inds,8319,6402,Mock DNA mixture
+MockMixtureRep3_E11_15inds,10266,8006,Mock DNA mixture
+MockMixtureRep3_E12_20inds,10363,7747,Mock DNA mixture
+MockMixtureRep3_F01_2inds,8685,6228,Mock DNA mixture
+MockMixtureRep3_F02_3inds,10878,8598,Mock DNA mixture
+MockMixtureRep3_F03_5inds,9353,7430,Mock DNA mixture
+MockMixtureRep3_F04_5inds,9161,7206,Mock DNA mixture
+MockMixtureRep3_F05_7inds,11382,9099,Mock DNA mixture
+MockMixtureRep3_F06_7inds,9201,7188,Mock DNA mixture
+MockMixtureRep3_F07_9inds,9568,7422,Mock DNA mixture
+MockMixtureRep3_F08_9inds,7567,5785,Mock DNA mixture
+MockMixtureRep3_F09_10inds,10278,7811,Mock DNA mixture
+MockMixtureRep3_F10_10inds,7977,6260,Mock DNA mixture
+MockMixtureRep3_F11_15inds,10108,7980,Mock DNA mixture
+MockMixtureRep3_F12_20inds,8170,5823,Mock DNA mixture
+MockMixtureRep3_G01_2inds,10340,7346,Mock DNA mixture
+MockMixtureRep3_G02_3inds,10116,7495,Mock DNA mixture
+MockMixtureRep3_G03_5inds,9352,7241,Mock DNA mixture
+MockMixtureRep3_G04_5inds,10668,7644,Mock DNA mixture
+MockMixtureRep3_G05_7inds,12018,9033,Mock DNA mixture
+MockMixtureRep3_G06_7inds,10360,7619,Mock DNA mixture
+MockMixtureRep3_G07_9inds,11433,8567,Mock DNA mixture
+MockMixtureRep3_G08_9inds,9617,7189,Mock DNA mixture
+MockMixtureRep3_G09_10inds,12447,9603,Mock DNA mixture
+MockMixtureRep3_G10_10inds,8990,6878,Mock DNA mixture
+MockMixtureRep3_G11_15inds,9321,7007,Mock DNA mixture
+MockMixtureRep3_G12_20inds,9022,6206,Mock DNA mixture
+MockMixtureRep3_H01_2inds,13038,9069,Mock DNA mixture
+MockMixtureRep3_H02_3inds,6061,4495,Mock DNA mixture
+MockMixtureRep3_H03_5inds,10298,7466,Mock DNA mixture
+MockMixtureRep3_H04_5inds,9115,6540,Mock DNA mixture
+MockMixtureRep3_H05_7inds,7088,4910,Mock DNA mixture
+MockMixtureRep3_H06_7inds,10648,7843,Mock DNA mixture
+MockMixtureRep3_H07_9inds,6439,4607,Mock DNA mixture
+MockMixtureRep3_H08_9inds,6507,4714,Mock DNA mixture
+MockMixtureRep3_H09_10inds,5188,3560,Mock DNA mixture
+MockMixtureRep3_H10_10inds,6542,4661,Mock DNA mixture
+MockMixtureRep3_H11_15inds,11844,8581,Mock DNA mixture

@@ -1,0 +1,274 @@
+library(tidyverse)
+library(plyr)
+library(scales)
+library(pheatmap)
+library(patchwork)
+
+
+rm(list=ls())
+
+haplo_noNX_full <- read.table("microhaplotype_readcount_CA_noNX.txt", header=TRUE)
+unique(haplo_noNX_full$group)
+
+
+vis <- read.csv("../sample_info/CA_run/stool_visual.csv", header=T)
+#note: all the MISSING samples along with CCF_Stool_Chin_1153 has no visual score. 
+vis$Sample_ID <- str_replace_all(vis$Sample_ID, "_","-")
+
+meta <- read.csv("../sample_info/CA_run/stool_meta.csv", header=T)
+meta$Sample_ID <- str_replace_all(meta$Sample_ID, "_", "-")
+
+###########
+###input###
+###########
+
+mock <- haplo_noNX_full %>% 
+  filter(group=="mock")
+
+stool <- haplo_noNX_full %>% 
+  filter(group=="stool")
+
+
+#######################################
+###filter based on haplotype catelog###
+#######################################
+
+chnk.hap <- read.table("chinook.haplot.pF.20.0.2.txt", header=TRUE)
+loci.whitelist <- unique(chnk.hap$locus)
+haplo_key <- read.table("chinook_haplot_key.txt", header=TRUE)
+
+
+#mock
+length(unique(mock$id))
+length(unique(mock$locus))
+
+
+mock.filter <- mock %>% 
+  mutate(locus_haplo=paste0(locus, "_", haplo)) %>% 
+  filter(locus %in% loci.whitelist) %>% 
+  filter(locus_haplo %in% haplo_key$haplo_info)
+
+table(mock.filter$locus_haplo %in% haplo_key$haplo_info)
+table(mock.filter$locus %in% chnk.hap$locus)
+
+
+mock.filter <- mock.filter %>% 
+  group_by(locus,id) %>% 
+  dplyr::mutate(n.hap.perLocInd=n_distinct(haplo),
+         read.ratio=depth/depth[1],
+         rank=row_number(),
+         coverage_perLocInd=sum(depth)) %>% 
+  ungroup() %>% 
+  group_by(id) %>% 
+  dplyr::mutate(coverage_perInd=sum(depth)) %>% 
+  ungroup() %>% 
+  select(group, id, locus, haplo, locus_haplo, depth, coverage_perInd, coverage_perLocInd, n.hap.perLocInd, read.ratio, rank)
+
+length(unique(mock.filter$id))
+length(unique(mock.filter$locus))
+length(unique(mock.filter$locus_haplo))
+
+#stool
+length(unique(stool$id))
+length(unique(stool$locus))
+
+stool.filter <- stool %>% 
+  mutate(locus_haplo=paste0(locus, "_", haplo)) %>% 
+  filter(locus %in% loci.whitelist) %>% 
+  filter(locus_haplo %in% haplo_key$haplo_info)
+
+table(stool.filter$locus_haplo %in% haplo_key$haplo_info)
+table(stool.filter$locus %in% chnk.hap$locus)
+
+
+stool.filter <- stool.filter %>% 
+  group_by(locus,id) %>% 
+  dplyr::mutate(n.hap.perLocInd=n_distinct(haplo),
+                read.ratio=depth/depth[1],
+                rank=row_number(),
+                coverage_perLocInd=sum(depth)) %>% 
+  ungroup() %>% 
+  group_by(id) %>% 
+  dplyr::mutate(coverage_perInd=sum(depth)) %>% 
+  ungroup() %>% 
+  select(group, id, locus, haplo, locus_haplo, depth, coverage_perInd, coverage_perLocInd, n.hap.perLocInd, read.ratio, rank)
+
+length(unique(stool.filter$id))
+length(unique(stool.filter$locus))
+length(unique(stool.filter$locus_haplo))
+
+#compare # loci amplified per ind & coverage per ind
+mock.filter.byInd <- mock.filter %>% 
+  select(id, locus, coverage_perInd) %>% 
+  unique() %>% 
+  group_by(id) %>% 
+  dplyr::mutate(n_loci=n()) %>% 
+  select(id, n_loci, coverage_perInd) %>% 
+  unique()
+
+
+summary(mock.filter.byInd)
+hist(mock.filter.byInd$coverage_perInd, n=100)
+
+
+
+stool.filter.byInd <- stool.filter %>% 
+  select(id, locus, coverage_perInd) %>% 
+  unique() %>% 
+  group_by(id) %>% 
+  dplyr::mutate(n_loci=n()) %>% 
+  select(id, n_loci, coverage_perInd) %>% 
+  unique()
+
+
+summary(stool.filter.byInd)
+hist(stool.filter.byInd$n_loci, n=100)
+hist(stool.filter.byInd$coverage_perInd, n=100)
+
+p1 <- stool.filter.byInd %>% 
+  ggplot(aes(x=n_loci))+
+  geom_histogram(aes(y=..density..),binwidth = 1, position="identity", alpha=0.6)+
+  scale_x_continuous(breaks=seq(0,75,15))+
+  xlab("Number of loci amplified")+
+  theme_bw(base_size = 20)
+
+p2 <- stool.filter.byInd %>% 
+  ggplot(aes(x=coverage_perInd))+
+  geom_histogram(aes(y=..density..), bins=50, position="identity", alpha=0.6)+
+  xlab("Total coverage per sample")+
+  theme_bw(base_size = 20)
+
+
+p3 <- stool.filter.byInd %>% 
+  ggplot(aes(x=n_loci, y=coverage_perInd))+
+  geom_point(alpha=0.6)+
+  #coord_cartesian(ylim = c(0, 1000))+
+  scale_x_continuous(breaks=seq(0,75,15))+
+  xlab("Number of loci amplified")+
+  ylab("Total coverage per sample")+
+  theme_bw(base_size = 20)
+
+p4 <- stool.filter.byInd %>% 
+  ggplot(aes(x=n_loci, y=coverage_perInd))+
+  geom_point(alpha=0.6)+
+  coord_cartesian(ylim = c(0, 1000))+
+  scale_x_continuous(breaks=seq(0,75,15))+
+  xlab("Number of loci amplified")+
+  ylab("Total coverage per sample")+
+  theme_bw(base_size = 20)
+
+pdf("stool_nLoc_covInd.pdf", width = 12, height = 9)
+((p1/p2)|(p3/p4))+
+  plot_annotation(tag_levels="A")
+dev.off()
+
+
+#is this correlated with meta info?
+
+stool.filter.byInd.meta <- left_join(stool.filter.byInd, vis, by=c("id"="Sample_ID"))
+stool.filter.byInd.meta <- left_join(stool.filter.byInd.meta, meta, by=c("id"="Sample_ID"))
+
+stool.filter.byInd.meta %>% 
+  na.omit() %>% 
+  filter(n_loci==74) %>% 
+  group_by(score) %>% 
+  dplyr::summarise(n=n())
+
+stool.filter.byInd.meta %>% 
+  na.omit() %>% 
+  filter(n_loci>=74) %>% 
+  group_by(species, temp, smolt, hour) %>%
+  dplyr::summarise(n=n()) %>% 
+  spread(hour,n)
+  
+
+#which loci are amplified in what samples?
+head(stool.filter)
+sample.order <- stool.filter.byInd %>% 
+  arrange(-n_loci) %>% 
+  pull(id) 
+
+
+locus.order <- stool.filter %>% 
+  select(id, locus) %>% 
+  unique() %>% 
+  group_by(locus) %>% 
+  dplyr::mutate(n_ind=n()) %>% 
+  select(locus, n_ind) %>% 
+  unique() %>% 
+  arrange(-n_ind) %>% 
+  pull(locus)
+
+stool.filter.wide <- stool.filter %>% 
+  select(id, locus, coverage_perLocInd) %>% 
+  unique() %>% 
+  spread(locus, coverage_perLocInd) 
+
+dim(stool.filter.wide)
+
+
+stool.filter.wide_sorted <- stool.filter.wide[match(sample.order, stool.filter.wide$id),]
+stool.filter.wide_sorted[1:5,1:5]
+stool.filter.wide_sorted <- stool.filter.wide_sorted %>% 
+  column_to_rownames("id")
+
+dim(stool.filter.wide_sorted)
+
+stool.filter.wide_sorted.pa <- stool.filter.wide_sorted
+stool.filter.wide_sorted.pa[is.na(stool.filter.wide_sorted.pa)] <- 0
+stool.filter.wide_sorted.pa[stool.filter.wide_sorted.pa>0]=1
+
+dim(stool.filter.wide_sorted.pa)
+min(stool.filter.wide_sorted.pa)
+max(stool.filter.wide_sorted.pa)
+stool.filter.wide_sorted.pa[1:5,1:5]
+head(sample.order)
+
+head(colnames(stool.filter.wide_sorted.pa))
+
+
+stool.filter.wide_sorted.pa <- stool.filter.wide_sorted.pa[, match(locus.order, colnames(stool.filter.wide_sorted.pa))]
+stool.filter.wide_sorted.pa[1:5,1:5]
+locus.order
+
+
+
+meta_sorted <- vis[match(sample.order, vis$Sample_ID),]
+rownames(meta_sorted) <- meta_sorted$Sample_ID
+meta_sorted <- meta_sorted %>% 
+  select(-Sample_ID) %>% 
+  select(total=score, tissue=tissue_amt, stool=stool_amt)
+head(meta_sorted)
+meta_sorted <- meta_sorted %>% 
+  dplyr::mutate(across(everything(), as.character))
+str(meta_sorted)
+
+total_colors <- list(total=rev(brewer_pal(palette="Blues")(7)))
+names(total_colors$total)=seq(6,0,-1)
+
+tissue_colors <- list(tissue=rev(brewer_pal(palette="Greens")(4)))
+names(tissue_colors$tissue)=seq(3,0,-1)
+
+stool_colors <- list(stool=rev(brewer_pal(palette="YlOrRd")(4)))
+names(stool_colors$stool)=seq(3,0,-1)
+
+
+meta_cols <- c(total_colors, tissue_colors, stool_colors)
+meta_cols
+
+
+pdf("stool_nLoc_heatmap.pdf", width = 12, height = 9)
+pheatmap(
+  stool.filter.wide_sorted.pa,
+  annotation_row = meta_sorted,
+  annotation_colors = meta_cols,
+  cluster_rows = F,
+  cluster_cols = F, 
+  show_rownames = F,
+  show_colnames = T,
+  color=c("snow", "salmon"),
+  legend=FALSE)
+
+dev.off()
+
+
