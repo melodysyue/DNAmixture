@@ -139,18 +139,16 @@ write.table(mle.full, "./data/NOC/mock_NOCestimate_0_0.02_0.txt", quote = F, row
 #plot it
 chnk_haplo.af <- read.table("./data/haplotypes/chinook.haplot_addHOMO.allelefreq.txt",header=TRUE)
 mle.full <- read.table("./data/NOC/mock_NOCestimate_0_0.02_0.txt", header=TRUE)
-
-
-
+               
 p1 <- chnk_haplo.af %>% 
   ggplot(aes(x=af))+
-  #geom_histogram()+
-  geom_histogram(aes(y=..density..),fill="lightgray", color="black", alpha=0.8)+
+  geom_histogram(fill="lightgray", color="black", alpha=0.8)+
+  #geom_histogram(aes(y=..count..),fill="lightgray", color="black", alpha=0.8)+
   theme_bw(base_size = 25)+
-  labs(x="Haplotype frequency", y = "Density")+
+  labs(x="Haplotype frequency", y = "Count")+
   scale_x_continuous(breaks=c(seq(0,1,0.2)))+ 
   theme(panel.grid.minor = element_blank())
-
+               
 p2 <- mle.full %>% 
   group_by(n_ind) %>% 
   ggplot(aes(x=n_ind, y=mle_bias))+
