@@ -1,7 +1,7 @@
 # DNAmixture
 
 # How to cite:
-Yue Shi, Cory M. Dick, Kirby Karpan, Diana Baetscher, Mark J. Henderson, Suresh A. Sethi, Megan V. McPhee, Wesley A. Larson. Towards absolute abundance for conservation applications: estimating the number of contributors via microhaplotype genotyping of mixed-DNA samples. *Molecular Ecology Resources* (*in review*).
+Yue Shi, Cory M. Dick, Kirby Karpan, Diana Baetscher, Mark J. Henderson, Suresh A. Sethi, Megan V. McPhee, Wesley A. Larson. Towards absolute abundance for conservation applications: estimating the number of contributors via microhaplotype genotyping of mixed-DNA samples. *Molecular Ecology Resources*, 00, 1– 13. https://doi.org/10.1111/1755-0998.13816
 
 # Data
 
